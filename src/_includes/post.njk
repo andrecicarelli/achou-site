@@ -32,29 +32,26 @@ layout: base.njk
       <p class="post-cta-label">Quer o seu negócio aparecendo no Google?</p>
       <h3>A Achou cuida do seu site e da sua presença digital. Você foca no trabalho.</h3>
       <p>Fale com a gente pelo WhatsApp — sem compromisso.</p>
-      <a href="{{ site.whatsapp }}" target="_blank" rel="noopener" class="btn btn-primary">Falar no WhatsApp →</a>
+      <a href="{{ site.whatsapp }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Falar no WhatsApp →</a>
     </aside>
 
-    {% if collections.publishedPosts and collections.publishedPosts.length > 1 %}
+    {% set related = collections.publishedPosts | relatedPosts(page.url) %}
+    {% if related and related.length %}
     <section class="post-related">
       <h2>Continue lendo</h2>
       <div class="posts-grid posts-grid--sm">
-        {% set ns = namespace(count = 0) %}
-        {% for post in collections.publishedPosts %}
-          {% if post.url != page.url and ns.count < 3 %}
-            {% set ns.count = ns.count + 1 %}
-            <a href="{{ post.url }}" class="post-card">
-              <div class="post-card-meta">
-                <time datetime="{{ post.date | dateIso }}">{{ post.date | dateFormat }}</time>
-                <span>· {{ post.templateContent | readingTime }} min</span>
-              </div>
-              <h3>{{ post.data.title }}</h3>
-              {% if post.data.description %}
-              <p>{{ post.data.description }}</p>
-              {% endif %}
-              <span class="post-card-link">Ler artigo →</span>
-            </a>
-          {% endif %}
+        {% for post in related %}
+          <a href="{{ post.url }}" class="post-card">
+            <div class="post-card-meta">
+              <time datetime="{{ post.date | dateIso }}">{{ post.date | dateFormat }}</time>
+              <span>· {{ post.templateContent | readingTime }} min</span>
+            </div>
+            <h3>{{ post.data.title }}</h3>
+            {% if post.data.description %}
+            <p>{{ post.data.description }}</p>
+            {% endif %}
+            <span class="post-card-link">Ler artigo →</span>
+          </a>
         {% endfor %}
       </div>
     </section>

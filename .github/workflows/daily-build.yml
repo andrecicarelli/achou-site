@@ -11,4 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Disparar rebuild no Netlify
-        run: curl -s -X POST "${{ secrets.NETLIFY_BUILD_HOOK }}"
+        run: curl -sf -X POST "${{ secrets.NETLIFY_BUILD_HOOK }}"
+        env:
+          NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}

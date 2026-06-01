@@ -21,9 +21,14 @@ module.exports = function (eleventyConfig) {
 
   // Filtro: tempo estimado de leitura
   eleventyConfig.addFilter("readingTime", (content) => {
-    const text = String(content).replace(/<[^>]*>/g, "");
+    const text = String(content || "").replace(/<[^>]*>/g, "");
     const words = text.split(/\s+/).filter(Boolean).length;
     return Math.max(1, Math.ceil(words / 200));
+  });
+
+  // Filtro: posts relacionados (evita namespace() que não existe em Nunjucks)
+  eleventyConfig.addFilter("relatedPosts", (posts, currentUrl, limit = 3) => {
+    return (posts || []).filter(p => p.url !== currentUrl).slice(0, limit);
   });
 
   // Coleção: posts com data <= hoje (agendamento via build diário)
