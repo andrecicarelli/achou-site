@@ -1,0 +1,38 @@
+---
+layout: base.njk
+title: Blog
+description: Artigos práticos sobre presença digital, Google Meu Negócio e SEO local para pequenos negócios no Brasil.
+permalink: /blog/
+---
+
+<section class="blog-header">
+  <div class="container">
+    <span class="section-label">Blog</span>
+    <h1>Seu negócio no Google:<br /><span class="blog-header-accent">guias e dicas práticas.</span></h1>
+    <p>Artigos sobre presença digital, Google Meu Negócio e SEO local para quem tem um negócio em uma cidade brasileira e quer aparecer para novos clientes.</p>
+  </div>
+</section>
+
+<section class="blog-posts">
+  <div class="container">
+    {% if collections.publishedPosts and collections.publishedPosts.length %}
+    <div class="posts-grid">
+      {% for post in collections.publishedPosts %}
+      <a href="{{ post.url }}" class="post-card">
+        <div class="post-card-meta">
+          <time datetime="{{ post.date | dateIso }}">{{ post.date | dateFormat }}</time>
+          <span>· {{ post.templateContent | readingTime }} min de leitura</span>
+        </div>
+        <h3>{{ post.data.title }}</h3>
+        {% if post.data.description %}
+        <p>{{ post.data.description }}</p>
+        {% endif %}
+        <span class="post-card-link">Ler artigo →</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="blog-empty">Em breve, novos artigos.</p>
+    {% endif %}
+  </div>
+</section>

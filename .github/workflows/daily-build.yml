@@ -1,0 +1,14 @@
+name: Publicar Posts Agendados
+
+on:
+  schedule:
+    # 9h BRT (UTC-3) — todos os dias
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disparar rebuild no Netlify
+        run: curl -s -X POST "${{ secrets.NETLIFY_BUILD_HOOK }}"
