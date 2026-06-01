@@ -23,7 +23,10 @@
   --transition:   0.2s ease;
 }
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 
 body {
   font-family: var(--font);
@@ -31,7 +34,11 @@ body {
   background: var(--white);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
+
+/* Scroll offset para compensar navbar fixa */
+section[id] { scroll-margin-top: 88px; }
 
 /* ── UTILITIES ── */
 .container {
@@ -900,20 +907,68 @@ footer {
   margin-top: 0.5rem;
 }
 
-/* ── RESPONSIVE ── */
+/* ── RESPONSIVE 768px — esconde nav links, mostra hamburger ── */
 @media (max-width: 768px) {
-  .nav-links  { display: none; }
-  .nav-cta    { display: none; }
+  .nav-links     { display: none; }
+  .nav-cta       { display: none; }
   .nav-hamburger { display: flex; }
 }
 
+/* ── RESPONSIVE 640px — mobile ── */
 @media (max-width: 640px) {
+
+  /* Seções */
   section { padding: 3.5rem 0; }
-  #hero   { padding: 6.5rem 0 2.5rem; }
+
+  /* Hero */
+  #hero { padding: 6.5rem 0 2.5rem; }
+
+  /* Navbar flutuante mais compacta */
   .site-nav { width: calc(100% - 1.5rem); top: 0.75rem; }
-  .hero-stats { gap: 1.5rem; }
+
+  /* CTAs do hero: coluna + full-width para tap target correto */
+  .hero-ctas {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+  }
+  .hero-ctas .btn { justify-content: center; }
+
+  /* Stats do hero: mantém linha, reduz gap e número */
+  .hero-stats    { gap: 1rem; }
+  .stat-number   { font-size: 1.375rem; }
+  .stat-label    { font-size: 0.75rem; }
+
+  /* Problem cards: menos padding */
+  .problem-card { padding: 1.5rem; }
+
+  /* Steps: alinha à esquerda no mobile — texto longo centralizado é difícil de ler */
+  .step          { text-align: left; padding: 0; }
+  .step-number   { margin: 0 0 1rem 0; }
+
+  /* Plans: coluna única */
   .plans-grid { grid-template-columns: 1fr; }
-  .niches-grid { grid-template-columns: repeat(3, 1fr); }
-  .footer-inner { flex-direction: column; align-items: flex-start; }
-  .footer-links { flex-wrap: wrap; gap: 1rem; }
+
+  /* Niches: 2 colunas — 3 cols a 98px quebra labels longos */
+  .niches-grid { grid-template-columns: repeat(2, 1fr); }
+
+  /* FAQ: padding menor */
+  .faq-question      { padding: 1rem 1.25rem; font-size: 0.9375rem; }
+  .faq-answer-inner  { padding: 0 1.25rem 1rem; }
+
+  /* CTA final: full-width */
+  .btn-cta-final {
+    width: 100%;
+    justify-content: center;
+  }
+
+  /* Footer */
+  .footer-inner  { flex-direction: column; align-items: flex-start; gap: 1.25rem; }
+  .footer-links  { flex-wrap: wrap; gap: 1rem; }
+}
+
+/* ── RESPONSIVE 380px — telas muito pequenas ── */
+@media (max-width: 380px) {
+  .hero-stats { flex-direction: column; align-items: center; gap: 1rem; }
+  .niches-grid { grid-template-columns: repeat(2, 1fr); }
 }
