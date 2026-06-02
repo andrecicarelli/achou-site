@@ -35,7 +35,12 @@ body {
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
+
+body > footer { margin-top: auto; }
 
 /* Scroll offset para compensar navbar fixa */
 section[id] { scroll-margin-top: 88px; }
