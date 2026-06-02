@@ -309,16 +309,66 @@ description: A Achou constrói e cuida do seu site, do seu Google Meu Negócio e
 </section>
 
 <!-- ═══════════════════════════════════════
-     FINAL CTA
+     CONTATO
 ════════════════════════════════════════ -->
-<section id="cta-final">
+<section id="contato">
   <div class="container">
-    <h2 class="reveal">Pronto para aparecer no Google?</h2>
-    <p class="reveal reveal-d1">Comece hoje. Seu site no ar em 7 dias. Sem complicação.</p>
-    <div class="reveal reveal-d2">
-      <a href="{{ site.whatsapp }}" target="_blank" rel="noopener noreferrer" class="btn-cta-final">
-        Falar no WhatsApp agora →
-      </a>
+    <div class="contato-inner">
+
+      <div class="contato-copy reveal">
+        <div class="section-label">Vamos começar</div>
+        <h2>Pronto para aparecer no Google?</h2>
+        <p>Preencha o formulário e entraremos em contato em até 1 dia útil para montar o plano ideal para o seu negócio.</p>
+        <div class="contato-trust">
+          <span class="contato-trust-item">Site no ar em até 7 dias úteis</span>
+          <span class="contato-trust-item">Sem fidelidade nem multa de cancelamento</span>
+          <span class="contato-trust-item">Sem você precisar entender de tecnologia</span>
+          <span class="contato-trust-item">Suporte via WhatsApp incluído</span>
+        </div>
+      </div>
+
+      <div class="contato-form reveal reveal-d2">
+        <form name="contato" method="POST" action="/obrigado/" netlify netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contato" />
+          <p hidden><label>Não preencher: <input name="bot-field" /></label></p>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="nome">Nome <span class="form-required">*</span></label>
+              <input type="text" id="nome" name="nome" placeholder="Seu nome" required />
+            </div>
+            <div class="form-group">
+              <label for="whatsapp">WhatsApp <span class="form-required">*</span></label>
+              <input type="tel" id="whatsapp" name="whatsapp" placeholder="(11) 99999-9999" required />
+            </div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="negocio">Tipo de negócio <span class="form-required">*</span></label>
+              <input type="text" id="negocio" name="negocio" placeholder="Ex: Barbearia, Dentista..." required />
+            </div>
+            <div class="form-group">
+              <label for="cidade">Cidade <span class="form-required">*</span></label>
+              <input type="text" id="cidade" name="cidade" placeholder="Sua cidade / estado" required />
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="plano">Plano de interesse</label>
+            <select id="plano" name="plano">
+              <option value="">Ainda não sei — quero uma indicação</option>
+              <option value="Essencial R$197/mês">Essencial — R$197/mês</option>
+              <option value="Presença R$347/mês">Presença — R$347/mês (mais popular)</option>
+              <option value="Crescimento R$597/mês">Crescimento — R$597/mês</option>
+            </select>
+          </div>
+
+          <button type="submit" class="btn-cta-final">Solicitar contato →</button>
+          <p class="form-note">Respondemos em até 1 dia útil. Sem spam.</p>
+        </form>
+      </div>
+
     </div>
   </div>
 </section>
