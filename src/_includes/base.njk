@@ -39,10 +39,9 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" /></noscript>
-
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" />
   <link rel="stylesheet" href="/assets/achou.css?v={{ build.ts }}" />
+  <script src="https://us-assets.i.posthog.com/static/array.js" defer></script>
 </head>
 <body>
 
@@ -70,7 +69,7 @@
     <a href="/#planos" class="nav-drawer-link">Planos</a>
     <a href="/blog/" class="nav-drawer-link">Blog</a>
     <a href="/#faq" class="nav-drawer-link">FAQ</a>
-    <a href="{{ site.whatsapp }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="justify-content:center;margin-top:8px;">Falar no WhatsApp</a>
+    <a href="{{ site.whatsapp }}" target="_blank" rel="noopener noreferrer" class="btn btn-primary nav-drawer-cta">Falar no WhatsApp</a>
   </div>
 </nav>
 
@@ -94,74 +93,7 @@
   </div>
 </footer>
 
-<script>
-  /* ── Navbar: encolhe no scroll ── */
-  const nav = document.getElementById('site-nav');
-  window.addEventListener('scroll', () => {
-    nav.classList.toggle('nav--scrolled', window.scrollY > 80);
-  }, { passive: true });
-
-  /* ── Mobile drawer ── */
-  const hamburger = document.getElementById('nav-hamburger');
-  const drawer    = document.getElementById('nav-drawer');
-
-  function closeDrawer() {
-    drawer.classList.remove('nav-drawer--open');
-    hamburger.classList.remove('nav-hamburger--open');
-    nav.classList.remove('drawer-open');
-    hamburger.setAttribute('aria-expanded', 'false');
-    drawer.setAttribute('aria-hidden', 'true');
-  }
-
-  hamburger.addEventListener('click', () => {
-    const open = drawer.classList.toggle('nav-drawer--open');
-    hamburger.classList.toggle('nav-hamburger--open', open);
-    nav.classList.toggle('drawer-open', open);
-    hamburger.setAttribute('aria-expanded', String(open));
-    drawer.setAttribute('aria-hidden', String(!open));
-  });
-
-  drawer.querySelectorAll('a').forEach(a => a.addEventListener('click', closeDrawer));
-
-  /* ── Scroll reveal ── */
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(e => {
-      if (e.isIntersecting) {
-        e.target.classList.add('visible');
-        observer.unobserve(e.target);
-      }
-    });
-  }, { threshold: 0.12 });
-  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-
-  /* ── FAQ accordion ── */
-  document.querySelectorAll('.faq-question').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const item   = btn.closest('.faq-item');
-      const answer = item.querySelector('.faq-answer');
-      const isOpen = item.classList.contains('open');
-      document.querySelectorAll('.faq-item.open').forEach(o => {
-        o.classList.remove('open');
-        o.querySelector('.faq-answer').style.maxHeight = '0';
-      });
-      if (!isOpen) {
-        item.classList.add('open');
-        answer.style.maxHeight = answer.scrollHeight + 'px';
-      }
-    });
-  });
-
-  /* ── Smooth scroll para anchor links ── */
-  document.querySelectorAll('a[href^="#"]').forEach(a => {
-    a.addEventListener('click', e => {
-      const target = document.querySelector(a.getAttribute('href'));
-      if (target) {
-        e.preventDefault();
-        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
-    });
-  });
-</script>
+  <script src="/assets/achou.js?v={{ build.ts }}" defer></script>
 
 </body>
 </html>
