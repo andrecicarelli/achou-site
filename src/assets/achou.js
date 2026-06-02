@@ -1,12 +1,10 @@
-window.addEventListener('DOMContentLoaded', () => {
-  if (window.posthog) {
-    posthog.init('phc_osQVVbRsX4P2BRKu4UD5ixb7BkNZX3QNphXriR3d8NDT', {
-      api_host: 'https://us.i.posthog.com',
-      defaults: '2026-05-30',
-      person_profiles: 'identified_only',
-    });
-  }
-});
+if (window.posthog) {
+  posthog.init('phc_osQVVbRsX4P2BRKu4UD5ixb7BkNZX3QNphXriR3d8NDT', {
+    api_host: 'https://us.i.posthog.com',
+    defaults: '2026-05-30',
+    person_profiles: 'identified_only',
+  });
+}
 
 const nav = document.getElementById('site-nav');
 window.addEventListener('scroll', () => {
