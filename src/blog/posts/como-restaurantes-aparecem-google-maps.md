@@ -4,6 +4,7 @@ description: "Para negócios de alimentação que não dependem de delivery apps
 date: 2026-06-23
 tags: posts
 permalink: /blog/como-restaurantes-aparecem-google-maps/
+image: /assets/covers/como-restaurantes-aparecem-google-maps.jpg
 ---
 
 Delivery apps como iFood e Rappi dominaram o mercado de alimentação para quem quer receber em casa. Mas existe um segmento que eles não cobrem: quem quer sair para comer.

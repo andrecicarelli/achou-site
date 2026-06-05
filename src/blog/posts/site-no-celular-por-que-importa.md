@@ -4,6 +4,7 @@ description: "Se o seu site não funciona bem no celular, você está perdendo a
 date: 2026-06-11
 tags: posts
 permalink: /blog/site-no-celular-por-que-importa/
+image: /assets/covers/site-no-celular-por-que-importa.jpg
 ---
 
 Em 2024, o Brasil atingiu mais de 250 milhões de smartphones em uso. O celular é o principal dispositivo de acesso à internet para a maior parte da população — e em muitos casos, o único.

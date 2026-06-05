@@ -4,6 +4,7 @@ description: "Atrair visitas para o site é apenas metade do trabalho. A outra m
 date: 2026-06-27
 tags: posts
 permalink: /blog/como-transformar-visitantes-em-clientes/
+image: /assets/covers/como-transformar-visitantes-em-clientes.jpg
 ---
 
 Um site que recebe 400 visitantes por mês e não gera nenhum contato não está funcionando — independente de quão bonito seja.

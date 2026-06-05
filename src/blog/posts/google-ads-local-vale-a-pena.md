@@ -4,6 +4,7 @@ description: "Google Ads gera resultado imediato. Mas será que faz sentido para
 date: 2026-06-09
 tags: posts
 permalink: /blog/google-ads-local-vale-a-pena/
+image: /assets/covers/google-ads-local-vale-a-pena.jpg
 ---
 
 Google Ads é a plataforma de anúncios do Google. Quando você pesquisa qualquer serviço e os primeiros resultados têm a etiqueta "Patrocinado", são anúncios pagos.

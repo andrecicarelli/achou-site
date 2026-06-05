@@ -4,6 +4,7 @@ description: "Donos de pets pesquisam antes de levar o animal. Veja como aparece
 date: 2026-06-25
 tags: posts
 permalink: /blog/como-pet-shops-conseguem-clientes-google/
+image: /assets/covers/como-pet-shops-conseguem-clientes-google.jpg
 ---
 
 O mercado pet no Brasil é um dos que mais cresceu na última década. E donos de pets são clientes fiéis — quem encontra um pet shop ou veterinário de confiança volta com regularidade e indica para amigos que têm animais.

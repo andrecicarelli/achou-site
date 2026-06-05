@@ -4,6 +4,7 @@ description: "Ter um site em 'seusite.wix.com' passa uma mensagem diferente de '
 date: 2026-06-24
 tags: posts
 permalink: /blog/o-que-e-dominio-proprio-por-que-precisa/
+image: /assets/covers/o-que-e-dominio-proprio-por-que-precisa.jpg
 ---
 
 Quando você pesquisa qualquer empresa no Google e encontra o site dela, o endereço na barra do navegador diz muito antes de você ler uma palavra do conteúdo.

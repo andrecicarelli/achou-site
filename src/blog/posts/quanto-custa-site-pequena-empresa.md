@@ -4,6 +4,7 @@ description: "Os modelos de contratação de site mudaram bastante. Entenda as o
 date: 2026-06-13
 tags: posts
 permalink: /blog/quanto-custa-site-pequena-empresa/
+image: /assets/covers/quanto-custa-site-pequena-empresa.jpg
 ---
 
 Quando um dono de pequeno negócio pergunta "quanto custa um site?", a resposta honesta é: depende do modelo que você escolher. E os modelos disponíveis hoje são bem diferentes dos que existiam há cinco anos.

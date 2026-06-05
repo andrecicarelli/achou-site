@@ -4,6 +4,7 @@ description: "Instagram atinge quem já te conhece. Google atinge quem está pro
 date: 2026-06-17
 tags: posts
 permalink: /blog/por-que-instagram-nao-e-suficiente/
+image: /assets/covers/por-que-instagram-nao-e-suficiente.jpg
 ---
 
 Muitos pequenos negócios hoje têm presença digital apenas no Instagram. Postam com regularidade, têm seguidores, recebem comentários — e acreditam que isso é suficiente.

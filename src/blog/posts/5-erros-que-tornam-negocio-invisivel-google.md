@@ -4,6 +4,7 @@ description: "A maioria dos pequenos negócios comete pelo menos um desses erros
 date: 2026-06-06
 tags: posts
 permalink: /blog/5-erros-que-tornam-negocio-invisivel-google/
+image: /assets/covers/5-erros-que-tornam-negocio-invisivel-google.jpg
 ---
 
 Aparecer no Google não é sorte. É o resultado de ter feito as coisas certas — e de não ter cometido os erros que tornam negócios invisíveis.

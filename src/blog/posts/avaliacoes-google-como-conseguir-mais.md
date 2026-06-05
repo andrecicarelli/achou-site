@@ -4,6 +4,7 @@ description: "Avaliações são o ativo digital mais valioso de um negócio loca
 date: 2026-06-10
 tags: posts
 permalink: /blog/avaliacoes-google-como-conseguir-mais/
+image: /assets/covers/avaliacoes-google-como-conseguir-mais.jpg
 ---
 
 Uma pesquisa do BrightLocal mostrou que 87% dos consumidores leem avaliações online antes de escolher um negócio local. No Brasil, o comportamento não é diferente — antes de ligar para um dentista novo ou chamar um eletricista desconhecido, a maioria das pessoas vai ao Google Maps e olha o que outras pessoas disseram.

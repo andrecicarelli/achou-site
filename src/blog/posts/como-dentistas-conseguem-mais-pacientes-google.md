@@ -4,6 +4,7 @@ description: "Dentistas que aparecem bem no Google recebem contatos de pacientes
 date: 2026-06-05
 tags: posts
 permalink: /blog/como-dentistas-conseguem-mais-pacientes-google/
+image: /assets/covers/como-dentistas-conseguem-mais-pacientes-google.jpg
 ---
 
 Um paciente novo que faz um implante vale entre R$2.500 e R$5.000 para um consultório odontológico. Um tratamento ortodôntico, entre R$3.000 e R$8.000.

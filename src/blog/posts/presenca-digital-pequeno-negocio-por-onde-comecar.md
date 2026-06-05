@@ -4,6 +4,7 @@ description: "Você sabe que precisa estar online, mas não sabe por onde começ
 date: 2026-06-30
 tags: posts
 permalink: /blog/presenca-digital-pequeno-negocio-por-onde-comecar/
+image: /assets/covers/presenca-digital-pequeno-negocio-por-onde-comecar.jpg
 ---
 
 Para donos de pequenos negócios que estão começando do zero na presença digital, a quantidade de opções pode paralisar. Site, Instagram, Google, Facebook, YouTube, WhatsApp Business — o que priorizar?

@@ -4,6 +4,7 @@ description: "Você não precisa ser especialista em analytics. Mas existem 4 n�
 date: 2026-06-26
 tags: posts
 permalink: /blog/metricas-pequeno-negocio-acompanhar-site/
+image: /assets/covers/metricas-pequeno-negocio-acompanhar-site.jpg
 ---
 
 A maioria dos donos de pequeno negócio que tem site nunca abre o Google Analytics. Isso é um erro — não porque seja obrigatório monitorar tudo, mas porque quatro números simples revelam se a presença digital está gerando resultado ou não.

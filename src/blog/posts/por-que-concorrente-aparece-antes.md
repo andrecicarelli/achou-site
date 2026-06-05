@@ -4,6 +4,7 @@ description: "Não é porque ele é melhor profissional. É porque ele fez algum
 date: 2026-06-08
 tags: posts
 permalink: /blog/por-que-concorrente-aparece-antes/
+image: /assets/covers/por-que-concorrente-aparece-antes.jpg
 ---
 
 Você já pesquisou pelo seu próprio serviço no Google e viu um concorrente aparecer na sua frente?

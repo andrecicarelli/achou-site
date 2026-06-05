@@ -4,6 +4,7 @@ description: "Personal trainers que aparecem bem no Google recebem consultas de 
 date: 2026-06-18
 tags: posts
 permalink: /blog/como-personal-trainers-conseguem-alunos-google/
+image: /assets/covers/como-personal-trainers-conseguem-alunos-google.jpg
 ---
 
 O mercado de personal training cresceu muito no Brasil nos últimos anos. Mais profissionais competindo pelos mesmos clientes. E a maioria ainda depende inteiramente de indicação para conseguir alunos novos.

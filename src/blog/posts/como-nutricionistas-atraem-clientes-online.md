@@ -4,6 +4,7 @@ description: "Consultórios de nutrição com presença digital bem estruturada 
 date: 2026-06-21
 tags: posts
 permalink: /blog/como-nutricionistas-atraem-clientes-online/
+image: /assets/covers/como-nutricionistas-atraem-clientes-online.jpg
 ---
 
 A nutrição é um dos segmentos de saúde onde a busca online cresceu mais nos últimos anos. Pessoas buscando emagrecimento, reeducação alimentar, nutrição esportiva, suporte para diabetes, doenças autoimunes, gestação — todas pesquisam no Google antes de escolher um profissional.

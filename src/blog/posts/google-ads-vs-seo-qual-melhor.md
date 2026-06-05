@@ -4,6 +4,7 @@ description: "São estratégias complementares, não opostas. Mas entender as di
 date: 2026-06-20
 tags: posts
 permalink: /blog/google-ads-vs-seo-qual-melhor/
+image: /assets/covers/google-ads-vs-seo-qual-melhor.jpg
 ---
 
 Quando um pequeno negócio decide investir em aparecer no Google, a primeira dúvida costuma ser esta: pago anúncios agora ou construo o orgânico devagar?

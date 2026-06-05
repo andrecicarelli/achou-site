@@ -4,6 +4,7 @@ description: "Clínicas de fisioterapia que aparecem bem no Google recebem pedid
 date: 2026-06-16
 tags: posts
 permalink: /blog/como-fisioterapeutas-atraem-pacientes/
+image: /assets/covers/como-fisioterapeutas-atraem-pacientes.jpg
 ---
 
 Um paciente que precisa de fisioterapia chega por dois caminhos: indicação médica ou pesquisa no Google. O primeiro você não controla. O segundo, sim.

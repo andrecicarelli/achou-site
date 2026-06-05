@@ -4,6 +4,7 @@ description: "Se você busca pelo seu próprio serviço na sua cidade e não se 
 date: 2026-06-01
 tags: posts
 permalink: /blog/por-que-seu-negocio-nao-aparece-no-google/
+image: /assets/covers/por-que-seu-negocio-nao-aparece-no-google.jpg
 ---
 
 Um eletricista de São Bernardo do Campo pesquisou "eletricista São Bernardo do Campo" no celular. Apareceu o concorrente na primeira posição. Ele mesmo não apareceu em lugar nenhum.

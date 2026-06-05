@@ -4,6 +4,7 @@ description: "SEO local não é assunto só para grandes empresas. Para qualquer
 date: 2026-06-03
 tags: posts
 permalink: /blog/seo-local-o-que-e/
+image: /assets/covers/seo-local-o-que-e.jpg
 ---
 
 Toda semana, centenas de pessoas na sua cidade pesquisam no Google por um serviço como o seu. Digitam "dentista no Tatuapé", "mecânico em São Bernardo", "eletricista perto de mim". Clicam nos primeiros resultados que aparecem. E contratam.

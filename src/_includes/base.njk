@@ -15,13 +15,13 @@
   <meta property="og:site_name" content="{{ site.name }}" />
   <meta property="og:locale" content="pt_BR" />
   <meta property="og:type" content="{% if tags and 'posts' in tags %}article{% else %}website{% endif %}" />
-  <meta property="og:image" content="{{ site.url }}{{ site.ogImage }}" />
+  <meta property="og:image" content="{{ site.url }}{{ image or site.ogImage }}" />
 
   <!-- Twitter/X -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{% if title %}{{ title }} — {% endif %}{{ site.name }}" />
   <meta name="twitter:description" content="{{ description or site.description }}" />
-  <meta name="twitter:image" content="{{ site.url }}{{ site.ogImage }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ image or site.ogImage }}" />
 
   {% if page.url == "/" %}
   <script type="application/ld+json">

@@ -4,6 +4,7 @@ description: "O Google Maps é onde a maioria dos clientes locais encontra servi
 date: 2026-06-07
 tags: posts
 permalink: /blog/como-aparecer-google-maps/
+image: /assets/covers/como-aparecer-google-maps.jpg
 ---
 
 Quando alguém pesquisa "encanador perto de mim" ou "salão de beleza em [bairro]", o Google exibe uma lista de negócios próximos no Google Maps — o chamado "Local Pack". Esse espaço é o mais valioso para qualquer negócio que atende clientes em uma cidade.

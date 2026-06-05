@@ -4,6 +4,7 @@ description: "Serviços de manutenção residencial têm alta demanda de busca u
 date: 2026-06-28
 tags: posts
 permalink: /blog/eletricistas-encanadores-aparecem-google/
+image: /assets/covers/eletricistas-encanadores-aparecem-google.jpg
 ---
 
 Quando alguém tem um problema elétrico ou de encanamento em casa, não tem tempo para perguntar para amigos e esperar resposta. O comportamento é imediato: pega o celular, pesquisa no Google, e chama o primeiro que parece confiável.

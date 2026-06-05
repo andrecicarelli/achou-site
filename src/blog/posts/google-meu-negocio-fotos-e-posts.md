@@ -4,6 +4,7 @@ description: "Fotos e posts regulares no Google Meu Negócio são um dos fatores
 date: 2026-06-29
 tags: posts
 permalink: /blog/google-meu-negocio-fotos-e-posts/
+image: /assets/covers/google-meu-negocio-fotos-e-posts.jpg
 ---
 
 Criar o Google Meu Negócio e verificar é o passo 1. A maioria dos negócios para por aí.

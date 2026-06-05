@@ -4,6 +4,7 @@ description: "Como criar, verificar e otimizar seu perfil no Google Meu Negócio
 date: 2026-06-02
 tags: posts
 permalink: /blog/google-meu-negocio-guia-completo/
+image: /assets/covers/google-meu-negocio-guia-completo.jpg
 ---
 
 Se você tem um negócio local — dentista, mecânico, salão, eletricista, qualquer coisa — e ainda não configurou o Google Meu Negócio, essa é a primeira coisa a fazer antes de qualquer outra ação de presença digital.

@@ -4,6 +4,7 @@ description: "Salões com boa presença digital recebem pedidos de agendamento d
 date: 2026-06-12
 tags: posts
 permalink: /blog/como-saloes-beleza-atraem-clientes-google/
+image: /assets/covers/como-saloes-beleza-atraem-clientes-google.jpg
 ---
 
 O mercado de beleza é um dos mais competitivos para negócios locais. Em qualquer bairro de cidade média ou grande, existem dezenas de salões disputando os mesmos clientes.

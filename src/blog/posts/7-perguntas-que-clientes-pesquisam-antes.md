@@ -4,6 +4,7 @@ description: "Entender o que seu cliente digita no Google antes de decidir é um
 date: 2026-06-22
 tags: posts
 permalink: /blog/7-perguntas-que-clientes-pesquisam-antes/
+image: /assets/covers/7-perguntas-que-clientes-pesquisam-antes.jpg
 ---
 
 A maioria das pessoas não pesquisa direto o nome do negócio quando está procurando um serviço novo. Elas pesquisam pelo problema, pelo serviço, ou pela localização.

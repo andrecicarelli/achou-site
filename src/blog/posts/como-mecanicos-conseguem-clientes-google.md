@@ -4,6 +4,7 @@ description: "Oficinas mecânicas com boa presença digital recebem clientes nov
 date: 2026-06-14
 tags: posts
 permalink: /blog/como-mecanicos-conseguem-clientes-google/
+image: /assets/covers/como-mecanicos-conseguem-clientes-google.jpg
 ---
 
 Um dono de carro que precisa de revisão ou está com problema no veículo não pergunta mais para o vizinho. Ele pega o celular, pesquisa "mecânico perto de mim" ou "oficina mecânica [bairro]", olha o Google Maps, e liga para a oficina que aparece bem e tem boas avaliações.

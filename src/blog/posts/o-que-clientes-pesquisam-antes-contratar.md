@@ -4,6 +4,7 @@ description: "Entender o comportamento de busca do seu cliente potencial é o pr
 date: 2026-06-19
 tags: posts
 permalink: /blog/o-que-clientes-pesquisam-antes-contratar/
+image: /assets/covers/o-que-clientes-pesquisam-antes-contratar.jpg
 ---
 
 Antes de contratar qualquer serviço local — de um encanador a um dentista — o cliente moderno passa por um processo de pesquisa. Entender esse processo ajuda a posicionar o negócio exatamente onde a decisão acontece.

@@ -4,6 +4,7 @@ description: "São dois resultados diferentes na mesma busca. Entender a diferen
 date: 2026-06-15
 tags: posts
 permalink: /blog/diferenca-google-maps-google-search/
+image: /assets/covers/diferenca-google-maps-google-search.jpg
 ---
 
 Quando você pesquisa "fisioterapeuta em Campinas" no Google, dois tipos de resultado aparecem na mesma tela:

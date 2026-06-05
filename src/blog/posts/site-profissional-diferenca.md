@@ -4,6 +4,7 @@ description: "Um site ruim pode ser pior do que não ter site nenhum. Entenda o 
 date: 2026-06-04
 tags: posts
 permalink: /blog/site-profissional-diferenca/
+image: /assets/covers/site-profissional-diferenca.jpg
 ---
 
 Quando um potencial cliente pesquisa pelo seu serviço no Google e encontra seu site, tem menos de 10 segundos para decidir se vai ficar ou vai embora.
