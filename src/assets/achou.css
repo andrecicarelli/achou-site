@@ -1460,3 +1460,48 @@ footer {
 }
 
 .nav-drawer-cta { justify-content: center; margin-top: 8px; }
+
+/* ── Post cover (página do artigo) ── */
+.post-cover {
+  margin-bottom: 2.5rem;
+  border-radius: var(--radius);
+  overflow: hidden;
+  max-width: 740px;
+}
+
+.post-cover picture,
+.post-cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1200 / 630;
+  object-fit: cover;
+}
+
+/* ── Post card com thumbnail ── */
+.post-card-thumb {
+  border-radius: calc(var(--radius) - 2px) calc(var(--radius) - 2px) 0 0;
+  overflow: hidden;
+  margin: -1.75rem -1.75rem 1rem;
+}
+
+.post-card-thumb picture,
+.post-card-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1200 / 630;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.post-card:hover .post-card-thumb img {
+  transform: scale(1.03);
+}
+
+.post-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+  flex: 1;
+}

@@ -24,6 +24,15 @@ layout: base.njk
       {% endif %}
     </header>
 
+    {% if image %}
+    <div class="post-cover">
+      <picture>
+        <source srcset="{{ image | replace('.jpg', '.webp') }}" type="image/webp">
+        <img src="{{ image }}" alt="{{ title }}" width="1200" height="630" fetchpriority="high" loading="eager" sizes="(max-width: 768px) 100vw, 740px">
+      </picture>
+    </div>
+    {% endif %}
+
     <div class="post-body">
       {{ content | safe }}
     </div>
@@ -42,15 +51,25 @@ layout: base.njk
       <div class="posts-grid posts-grid--sm">
         {% for post in related %}
           <a href="{{ post.url }}" class="post-card">
-            <div class="post-card-meta">
-              <time datetime="{{ post.date | dateIso }}">{{ post.date | dateFormat }}</time>
-              <span>· {{ post.templateContent | readingTime }} min</span>
+            {% if post.data.image %}
+            <div class="post-card-thumb">
+              <picture>
+                <source srcset="{{ post.data.image | replace('.jpg', '.webp') }}" type="image/webp">
+                <img src="{{ post.data.image }}" alt="{{ post.data.title }}" width="600" height="315" loading="lazy">
+              </picture>
             </div>
-            <h3>{{ post.data.title }}</h3>
-            {% if post.data.description %}
-            <p>{{ post.data.description }}</p>
             {% endif %}
-            <span class="post-card-link">Ler artigo →</span>
+            <div class="post-card-body">
+              <div class="post-card-meta">
+                <time datetime="{{ post.date | dateIso }}">{{ post.date | dateFormat }}</time>
+                <span>· {{ post.templateContent | readingTime }} min</span>
+              </div>
+              <h3>{{ post.data.title }}</h3>
+              {% if post.data.description %}
+              <p>{{ post.data.description }}</p>
+              {% endif %}
+              <span class="post-card-link">Ler artigo →</span>
+            </div>
           </a>
         {% endfor %}
       </div>

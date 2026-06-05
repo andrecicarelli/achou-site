@@ -19,15 +19,25 @@ permalink: /blog/
     <div class="posts-grid">
       {% for post in collections.publishedPosts %}
       <a href="{{ post.url }}" class="post-card">
-        <div class="post-card-meta">
-          <time datetime="{{ post.date | dateIso }}">{{ post.date | dateFormat }}</time>
-          <span>· {{ post.templateContent | readingTime }} min de leitura</span>
+        {% if post.data.image %}
+        <div class="post-card-thumb">
+          <picture>
+            <source srcset="{{ post.data.image | replace('.jpg', '.webp') }}" type="image/webp">
+            <img src="{{ post.data.image }}" alt="{{ post.data.title }}" width="600" height="315" loading="lazy">
+          </picture>
         </div>
-        <h3>{{ post.data.title }}</h3>
-        {% if post.data.description %}
-        <p>{{ post.data.description }}</p>
         {% endif %}
-        <span class="post-card-link">Ler artigo →</span>
+        <div class="post-card-body">
+          <div class="post-card-meta">
+            <time datetime="{{ post.date | dateIso }}">{{ post.date | dateFormat }}</time>
+            <span>· {{ post.templateContent | readingTime }} min de leitura</span>
+          </div>
+          <h3>{{ post.data.title }}</h3>
+          {% if post.data.description %}
+          <p>{{ post.data.description }}</p>
+          {% endif %}
+          <span class="post-card-link">Ler artigo →</span>
+        </div>
       </a>
       {% endfor %}
     </div>
