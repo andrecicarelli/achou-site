@@ -14,26 +14,27 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:site_name" content="{{ site.name }}" />
   <meta property="og:locale" content="pt_BR" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="{{ site.url }}/assets/favicon.svg" />
+  <meta property="og:type" content="{% if tags and 'posts' in tags %}article{% else %}website{% endif %}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.ogImage }}" />
 
   <!-- Twitter/X -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{% if title %}{{ title }} — {% endif %}{{ site.name }}" />
   <meta name="twitter:description" content="{{ description or site.description }}" />
-  <meta name="twitter:image" content="{{ site.url }}/assets/favicon.svg" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.ogImage }}" />
 
-  <!-- JSON-LD (valores escapados via site.js, sem interpolação direta) -->
+  {% if page.url == "/" %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Achou",
-    "description": "Seu negócio no Google. Nós cuidamos do resto.",
-    "url": "https://achouagencia.com.br",
+    "name": "{{ site.name }}",
+    "description": "{{ site.description }}",
+    "url": "{{ site.url }}",
     "address": { "@type": "PostalAddress", "addressCountry": "BR" }
   }
   </script>
+  {% endif %}
 
   <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
 

@@ -59,3 +59,40 @@ layout: base.njk
 
   </div>
 </article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ title | escape }}",
+  "description": "{{ description | escape }}",
+  "datePublished": "{{ date | dateIso }}",
+  "dateModified": "{{ date | dateIso }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ site.name }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "url": "{{ site.url }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Início", "item": "{{ site.url }}/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ site.url }}/blog/" },
+    { "@type": "ListItem", "position": 3, "name": "{{ title | escape }}", "item": "{{ site.url }}{{ page.url }}" }
+  ]
+}
+</script>

@@ -3,43 +3,103 @@ title: "O que é domínio próprio e por que o seu negócio precisa de um"
 description: "Ter um site em 'seusite.wix.com' passa uma mensagem diferente de 'seusite.com.br'. A diferença importa mais do que parece."
 date: 2026-06-24
 tags: posts
+permalink: /blog/o-que-e-dominio-proprio-por-que-precisa/
 ---
 
-Quando você cria um site em plataformas gratuitas como Wix, Blogger ou WordPress.com sem contratar um plano pago, o endereço fica assim:
+Quando você pesquisa qualquer empresa no Google e encontra o site dela, o endereço na barra do navegador diz muito antes de você ler uma palavra do conteúdo.
+
+`clinicacamila.com.br` — parece profissional.
+
+`clinicacamila.wixsite.com/site` — passa a mensagem de que o negócio não investiu nem o mínimo em presença digital.
+
+Essa percepção acontece em menos de um segundo. E influencia a decisão de continuar lendo ou fechar a aba.
+
+## O que é um domínio, em linguagem simples
+
+Domínio é o endereço do seu negócio na internet. É o que fica depois do "www" e antes do ".com.br".
+
+`suaoficina.com.br` — esse é o domínio.
+`clinica-dra-mariana.com.br` — esse também.
+
+Quando você usa uma plataforma gratuita como Wix ou Blogger sem contratar um plano pago, o endereço do site fica assim:
 
 - `seunegocio.wixsite.com/site`
 - `seunegocio.blogspot.com`
-- `seunegocio.wordpress.com`
 
-Essas são subdomínios de outras empresas — não o seu domínio. E isso faz diferença.
+Esses são subdomínios de outras empresas — não o seu. Você está emprestando o espaço de outra plataforma.
 
-## O que é um domínio próprio
+Registrar um domínio `.com.br` custa entre R$40 e R$80 por ano no Registro.br — o órgão oficial de registro de domínios no Brasil. É menos de R$7 por mês.
 
-Um domínio é o endereço do seu site na internet: `seurestaurante.com.br`, `oficinadorogério.com.br`, `clinicadra-camila.com.br`.
+## Por que o domínio próprio importa para o negócio
 
-Registrar um domínio `.com.br` custa em torno de R$40 a R$80 por ano no Registro.br — menos de R$7 por mês.
+### Credibilidade imediata
 
-## Por que importa
+Para clientes avaliando um serviço de saúde, uma reforma cara, ou qualquer serviço onde a confiança importa, a percepção do profissionalismo começa pelo endereço digital.
 
-**Credibilidade.** Um endereço como `clinicacamila.com.br` passa profissionalismo. Um endereço como `clinicacamila.wixsite.com/dentista` passa a mensagem de que o negócio não investiu nem o mínimo em presença digital.
+`ortodontistadaniel.com.br` passa profissionalismo.
+`ortodontistadaniel.wixsite.com/consultorio` passa a mensagem de que o negócio não se preocupou com o básico.
 
-Para clientes avaliando um serviço de saúde, reformas caras ou qualquer serviço onde a confiança importa, essa percepção tem peso real.
+A maioria dos clientes não vai verbalizar isso. Mas a percepção influencia a decisão.
 
-**Independência.** Com um domínio próprio, você não depende de nenhuma plataforma. Se você quiser mudar de provedor de hospedagem ou de empresa que gerencia o site, o endereço permanece o mesmo. Você leva o domínio para onde quiser.
+### Independência de plataformas
 
-**SEO.** Domínios próprios com histórico e autoridade acumulada têm mais peso no rankeamento do Google do que subdomínios de plataformas de terceiros.
+Com um domínio próprio, você não fica preso a nenhuma plataforma. Se quiser mudar de hospedagem, de empresa que cuida do site, ou de qualquer serviço digital — o endereço fica com você.
 
-**E-mail profissional.** Um domínio próprio permite criar e-mails como `contato@suaempresa.com.br` — muito mais profissional do que `suaempresa@gmail.com`.
+Com subdomínio de plataforma gratuita, se a plataforma mudar os termos, sair do ar, ou você quiser migrar, o endereço vai junto — e você precisa começar do zero.
+
+### SEO: domínios próprios têm mais peso
+
+O Google dá mais autoridade para domínios próprios com histórico do que para subdomínios de plataformas de terceiros. Um site em `seunegocio.com.br` que existe há 2 anos aparece consistentemente melhor do que um em `seunegocio.wixsite.com` com o mesmo conteúdo.
+
+Não é uma diferença enorme no começo, mas acumula com o tempo.
+
+### E-mail profissional
+
+Um domínio próprio permite criar endereços de e-mail como `contato@suaempresa.com.br` ou `atendimento@clinicacamila.com.br`.
+
+Muito mais profissional do que `suaempresa@gmail.com` — especialmente em contextos B2B ou para profissionais de saúde e advocacia onde credibilidade é parte do serviço.
+
+## A diferença de percepção que ninguém fala
+
+Existe um efeito sutil mas real: quando o cliente visita `clinicacamila.wixsite.com/dentista`, ele está no domínio de outra empresa. O URL não menciona o consultório — menciona o Wix.
+
+Isso cria uma percepção implícita de que o negócio não investiu em ter algo próprio. Para clientes avaliando um serviço de saúde, jurídico, ou qualquer área onde credibilidade importa, essa percepção — mesmo inconscientemente — pesa.
+
+Com um domínio próprio, o URL anuncia o negócio. Não a plataforma que hospeda.
+
+Parece detalhe. Mas é o tipo de detalhe que acumula na decisão de contratar ou não.
 
 ## Como registrar um domínio
 
-1. Acesse registro.br (o órgão oficial de registro de domínios `.com.br`)
-2. Pesquise o nome que você quer
-3. Se disponível, registre por R$40/ano
-4. O domínio é seu — você o controla
+1. Acesse [registro.br](https://registro.br) — o site oficial de registro de domínios `.com.br` no Brasil
+2. Pesquise o nome que você quer (ex: `suaoficina`)
+3. Se disponível, registre por R$40 por ano
+4. O domínio é registrado no seu nome — você é o dono
 
-## Sobre os serviços da Achou
+Para domínios `.com` (sem o ".br"), o processo é similar mas em registradores internacionais como Namecheap ou GoDaddy, com custo em dólar.
 
-Todos os planos da Achou incluem o domínio próprio registrado no nome do cliente. Se você cancelar o serviço, o domínio continua sendo seu.
+## O domínio é meu mesmo se eu contratar alguém para fazer o site?
 
-Isso é diferente de alguns serviços que registram o domínio no nome da empresa — o que cria dependência. Na Achou, o domínio é sempre do cliente.
+Depende do contrato. Sempre especifique que o domínio deve ser registrado no seu nome — não no nome da empresa que vai criar o site.
+
+Alguns serviços registram o domínio no nome deles para "facilitar" a gestão. Isso cria dependência — se você quiser sair, o endereço fica com eles.
+
+Quando contratar qualquer serviço de site, pergunte: "O domínio vai ficar registrado no meu nome?" Se a resposta for não, é um sinal de alerta.
+
+## Perguntas frequentes
+
+**Posso usar o mesmo domínio para o site e para o e-mail profissional?**
+Sim. Um único domínio suporta tanto o site (`www.suaempresa.com.br`) quanto e-mails profissionais (`contato@suaempresa.com.br`). São funções diferentes do mesmo endereço.
+
+**E se o nome que eu quero já estiver registrado?**
+Você pode tentar variações — adicionar a cidade ("suaoficina-campinas.com.br"), o serviço ("oficinamecanica-bairro.com.br"), ou usar uma extensão diferente (.com em vez de .com.br). Pesquise no registro.br para ver disponibilidade.
+
+**Preciso renovar o domínio todo ano?**
+Sim. O domínio `.com.br` custa cerca de R$40 por ano e precisa ser renovado anualmente. Se você não renovar, o endereço fica disponível para outra pessoa registrar.
+
+**O site precisa ser lançado imediatamente depois de registrar o domínio?**
+Não. Você pode registrar o domínio agora para garantir o endereço, e lançar o site depois. O domínio fica reservado no seu nome enquanto estiver pago.
+
+---
+
+Leia também: [Site profissional vs. site amador: a diferença que o cliente percebe](/blog/site-profissional-diferenca/). Nos [planos da Achou](/#planos), o domínio próprio está incluído e fica registrado no nome do cliente.
