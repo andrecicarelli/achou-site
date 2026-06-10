@@ -683,45 +683,51 @@ section { padding: 5rem 0; }
 /* ── FOR WHO ── */
 #para-quem { background: var(--white); }
 
-.niches-grid {
+.niche-featured-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
   margin-top: 3rem;
 }
 
-.niche-card {
+.niche-featured {
   background: var(--gray-light);
-  border-radius: 10px;
-  padding: 1.25rem 1rem;
-  text-align: center;
-  transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
-  border: 1px solid transparent;
-  cursor: default;
+  border-radius: 12px;
+  border-top: 3px solid var(--orange);
+  padding: 2rem;
+  transition: transform var(--transition), box-shadow var(--transition);
 }
 
-.niche-card:hover {
-  background: #fff;
-  border-color: var(--gray-mid);
+.niche-featured:hover {
   transform: translateY(-3px);
   box-shadow: var(--shadow);
 }
 
-.niche-icon {
+.niche-featured-icon {
   font-size: 2rem;
   display: block;
-  margin-bottom: 0.5rem;
-  transition: transform 0.25s cubic-bezier(0.34,1.56,0.64,1);
+  margin-bottom: 0.75rem;
 }
 
-.niche-card:hover .niche-icon {
-  transform: scale(1.18);
-}
-
-.niche-label {
-  font-size: 0.875rem;
-  font-weight: 600;
+.niche-featured h3 {
+  font-size: 1.125rem;
+  font-weight: 700;
   color: var(--blue);
+  letter-spacing: -0.01em;
+  margin-bottom: 0.5rem;
+}
+
+.niche-featured p {
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  color: var(--gray-text);
+}
+
+.niches-more {
+  margin-top: 1.75rem;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: var(--gray-text);
 }
 
 /* ── FAQ ── */
@@ -1125,8 +1131,8 @@ footer {
   /* Plans: coluna única */
   .plans-grid { grid-template-columns: 1fr; }
 
-  /* Niches: 2 colunas — 3 cols a 98px quebra labels longos */
-  .niches-grid { grid-template-columns: repeat(2, 1fr); }
+  /* Niches em destaque: coluna única */
+  .niche-featured-grid { grid-template-columns: 1fr; }
 
   /* FAQ: padding menor */
   .faq-question      { padding: 1rem 1.25rem; font-size: 0.9375rem; }
@@ -1144,7 +1150,6 @@ footer {
 /* ── RESPONSIVE 380px — telas muito pequenas ── */
 @media (max-width: 380px) {
   .hero-stats { flex-direction: column; align-items: center; gap: 1rem; }
-  .niches-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 /* ═══════════════════════════════════════════
