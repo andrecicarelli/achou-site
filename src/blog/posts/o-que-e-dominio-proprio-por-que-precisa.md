@@ -17,6 +17,10 @@ faq:
     a: "Não. Você pode registrar o domínio agora para garantir o endereço, e lançar o site depois. O domínio fica reservado no seu nome enquanto estiver pago."
 ---
 
+Uma cirurgiã-dentista nova na cidade registrou seu site num plano gratuito do Wix. Ficou no ar em dois dias, sem custo, sem complicação. Seis meses depois, percebeu que uma colega formada no mesmo ano, com estrutura parecida, aparecia consistentemente acima dela no Google Maps para buscas de "dentista [cidade]". O perfil delas era quase idêntico. A diferença estava no endereço: a colega tinha `clinicadantonelli.com.br`; ela tinha `clinicadantonelli.wixsite.com/dentista`.
+
+O domínio não é só endereço. É o sinal mais imediato de que o negócio existe de verdade.
+
 Quando você pesquisa qualquer empresa no Google e encontra o site dela, o endereço na barra do navegador diz muito antes de você ler uma palavra do conteúdo.
 
 `clinicacamila.com.br` — parece profissional.
@@ -79,6 +83,16 @@ Isso cria uma percepção implícita de que o negócio não investiu em ter algo
 Com um domínio próprio, o URL anuncia o negócio. Não a plataforma que hospeda.
 
 Parece detalhe. Mas é o tipo de detalhe que acumula na decisão de contratar ou não.
+
+## O que acontece se você não renovar — e por que isso importa
+
+O domínio não é de ninguém permanentemente. É registrado por período (geralmente 1 ou 2 anos) e precisa ser renovado. Se você não renovar, o endereço volta para o mercado e qualquer pessoa pode registrá-lo.
+
+Casos de domínio expirado são mais comuns do que parece: o e-mail de renovação foi para o spam, o cartão cadastrado venceu, ou simplesmente alguém esqueceu. O domínio expira, fica em quarentena por 30 dias, e depois vai a leilão — às vezes comprado por concorrentes ou por serviços de domínio premium que vendem de volta a preço muito mais alto.
+
+Se o seu negócio já tem algum histórico no Google com aquele domínio, perder e precisar recomprar é perder também o histórico de SEO acumulado.
+
+A proteção é simples: mantenha o e-mail de contato atualizado, ative renovação automática, e prefira pagar por 2 anos de uma vez para reduzir o risco de esquecimento.
 
 ## Como registrar um domínio
 

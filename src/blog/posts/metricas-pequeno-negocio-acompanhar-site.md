@@ -13,7 +13,13 @@ faq:
     a: "As principais alavancas para aumentar tráfego orgânico local: Google Meu Negócio bem configurado com avaliações crescentes, e site com conteúdo que mencione claramente os serviços e a cidade. Artigos de blog sobre temas relevantes para o seu público também ajudam a longo prazo."
   - q: "Os dados aparecem em tempo real?"
     a: "O Google Analytics mostra dados com um pequeno atraso (geralmente algumas horas). O Google Meu Negócio atualiza as métricas diariamente. Para acompanhamento mensal, ambos são suficientes."
+  - q: "Com que frequência devo olhar para essas métricas?"
+    a: "Uma vez por mês é suficiente para a maioria dos pequenos negócios. O objetivo não é monitorar em tempo real — é detectar tendências e problemas antes que se tornem graves. Se os visitantes caíram 40% de um mês para o outro, você quer saber no mês seguinte, não em 6 meses."
 ---
+
+Um contador de São Bernardo passou 6 meses "trabalhando no SEO" sem conseguir dizer se estava funcionando. Fazia mudanças no site, atualizava textos, mas não tinha parâmetro para avaliar o resultado. Na prática, estava investindo tempo sem métricas — e uma decisão sem número é uma aposta.
+
+Ele não precisava de um dashboard elaborado. Precisava de quatro números, olhados uma vez por mês.
 
 A maioria dos donos de pequeno negócio que tem site nunca abre o Google Analytics. Isso é um erro — não porque seja obrigatório monitorar tudo, mas porque quatro números simples revelam se a presença digital está gerando resultado ou não.
 
@@ -98,6 +104,11 @@ As principais alavancas para aumentar tráfego orgânico local: Google Meu Negó
 **Os dados aparecem em tempo real?**
 O Google Analytics mostra dados com um pequeno atraso (geralmente algumas horas). O Google Meu Negócio atualiza as métricas diariamente. Para acompanhamento mensal, ambos são suficientes.
 
+**Com que frequência devo olhar para essas métricas?**
+Uma vez por mês é suficiente para a maioria dos pequenos negócios. O objetivo não é monitorar em tempo real — é detectar tendências e problemas antes que se tornem graves. Se os visitantes caíram 40% de um mês para o outro, você quer saber no mês seguinte, não em 6 meses.
+
 ---
+
+O contador do começo passou a registrar os quatro números numa planilha simples no primeiro dia de cada mês. Em três meses, identificou que o tráfego crescia mas os cliques no WhatsApp estavam estacionados — o botão estava muito escondido no site. Corrigiu. No mês seguinte, os contatos dobraram.
 
 Leia também: [Como transformar visitantes do site em clientes](/blog/como-transformar-visitantes-em-clientes/). Todos os [planos Presença e Crescimento da Achou](/#planos) incluem um relatório mensal com esses dados já organizados.

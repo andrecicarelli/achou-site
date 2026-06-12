@@ -13,7 +13,13 @@ faq:
     a: "O Google Search Console mostra as buscas que trouxeram visitantes ao seu site. O Google Meu Negócio mostra as buscas que levaram pessoas ao seu perfil. Ambos são gratuitos e revelam o que seus clientes reais estão pesquisando."
   - q: "Preciso de blog para aparecer nessas buscas?"
     a: "Para buscas de serviço + cidade, não — o Google Meu Negócio e o site já cobrem. Para buscas de pesquisa (como \"quanto custa\" ou \"como funciona\"), artigos de blog são o canal mais eficaz."
+  - q: "O que fazer se nenhuma dessas buscas tiver meu negócio nos resultados?"
+    a: "Comece pelo Google Meu Negócio — é o que coloca o negócio no mapa para buscas tipo '[serviço] + [cidade]'. Depois, garanta que o site menciona explicitamente o serviço e a cidade no texto principal. Para buscas de preço e processo, um artigo de blog já começa a capturar esse tráfego. Os diagnósticos detalhados estão em por que seu negócio não aparece no Google."
 ---
+
+Uma personal trainer de São José dos Campos gastou R$500 em Instagram Ads num mês e teve 2 contatos. Uma colega, com zero em anúncios mas presença correta no Google, fechou 8 novos alunos no mesmo período — simplesmente porque aparecia quando as pessoas pesquisavam "personal trainer São José dos Campos" e "personal trainer perto de mim".
+
+A diferença não era competência. Era estar no lugar certo quando o cliente decidia pesquisar.
 
 A maioria das pessoas não pesquisa direto o nome do negócio quando está procurando um serviço novo. Elas pesquisam pelo problema, pelo serviço, ou pela localização.
 
@@ -90,6 +96,11 @@ O Google Search Console mostra as buscas que trouxeram visitantes ao seu site. O
 **Preciso de blog para aparecer nessas buscas?**
 Para buscas de serviço + cidade, não — o Google Meu Negócio e o site já cobrem. Para buscas de pesquisa (como "quanto custa" ou "como funciona"), artigos de blog são o canal mais eficaz.
 
+**O que fazer se nenhuma dessas buscas tiver meu negócio nos resultados?**
+Comece pelo Google Meu Negócio — é o que coloca o negócio no mapa para buscas tipo "[serviço] + [cidade]". Depois, garanta que o site menciona explicitamente o serviço e a cidade no texto principal. Para buscas de preço e processo, um artigo de blog já começa a capturar esse tráfego. Os diagnósticos detalhados estão em [por que seu negócio não aparece no Google](/blog/por-que-seu-negocio-nao-aparece-no-google/).
+
 ---
+
+A personal trainer do começo não mudou de plataforma de anúncios. Configurou o Google Meu Negócio, adicionou as especialidades na descrição e pediu avaliação para os alunos mais satisfeitos. Em dois meses, as consultas por Google superaram qualquer resultado que o Instagram tinha entregado.
 
 Leia também: [O que os clientes pesquisam antes de contratar um serviço local](/blog/o-que-clientes-pesquisam-antes-contratar/). Para ter tudo isso no lugar sem fazer você mesmo: [veja os planos da Achou](/#planos).

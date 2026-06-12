@@ -13,6 +13,8 @@ faq:
     a: "Para a maioria dos negócios locais, uma página bem feita já resolve: quem você é, o que você faz, onde você atua, e como entrar em contato. Adicionar uma seção de avaliações e uma página de blog para SEO é o próximo nível — mas não é obrigatório para começar."
   - q: "Meu negócio precisa de domínio próprio?"
     a: "Sim. Um endereço como `seunegocio.com.br` transmite profissionalismo. Um endereço como `seunegocio.wixsite.com/site` comunica que o negócio não investiu nem o mínimo em presença digital — o que levanta dúvidas sobre qualidade de serviço."
+  - q: "Existe diferença entre site bonito e site que converte?"
+    a: "Grande diferença. Site bonito é o que impressiona num portfólio de designer. Site que converte é o que faz o visitante entrar em contato — com botão de WhatsApp visível, telefone clicável, carregamento rápido no celular, e resposta imediata às três perguntas básicas: o que você faz, onde você atua, como entrar em contato. Para negócios locais, conversão vence beleza em todos os critérios que importam."
 ---
 
 Quando um potencial cliente pesquisa pelo seu serviço no Google e encontra seu site, tem menos de 10 segundos para decidir se vai ficar ou vai embora.
@@ -82,6 +84,11 @@ Para a maioria dos negócios locais, uma página bem feita já resolve: quem voc
 **Meu negócio precisa de domínio próprio?**
 Sim. Um endereço como `seunegocio.com.br` transmite profissionalismo. Um endereço como `seunegocio.wixsite.com/site` comunica que o negócio não investiu nem o mínimo em presença digital — o que levanta dúvidas sobre qualidade de serviço.
 
+**Existe diferença entre site bonito e site que converte?**
+Grande diferença. Site bonito é o que impressiona num portfólio de designer. Site que converte é o que faz o visitante entrar em contato — com botão de WhatsApp visível, telefone clicável, carregamento rápido no celular, e resposta imediata às três perguntas básicas: o que você faz, onde você atua, como entrar em contato. Para negócios locais, conversão vence beleza em todos os critérios que importam.
+
 ---
 
-Leia também: [Quanto custa ter um site profissional para pequenas empresas](/blog/quanto-custa-site-pequena-empresa/). Para ter um site profissional no ar em 7 dias, gerenciado mensalmente: [veja os planos da Achou](/#planos).
+O eletricista do exemplo não escolheu entre ser bom profissional e ter site — fez os dois. A competência existia antes do site; o site é o que permitiu que desconhecidos a encontrassem às 22h, sem indicação, sem conhecer o nome da empresa.
+
+Para entender os modelos de contratação e o que cada um inclui de verdade: [quanto custa um site profissional para pequenas empresas](/blog/quanto-custa-site-pequena-empresa/). Para ter um site no ar em 7 dias, gerenciado mensalmente: [veja os planos da Achou](/#planos).

@@ -13,7 +13,11 @@ faq:
     a: "O Google Meu Negócio verificado começa a aparecer em 1 a 4 semanas. As melhorias de posição por causa de avaliações e conteúdo do site aparecem em 60 a 90 dias com consistência."
   - q: "Preciso contratar alguém para corrigir esses erros?"
     a: "Os erros 1, 2 e 5 você consegue corrigir sozinho sem conhecimento técnico. Os erros 3 e 4 dependem de ter um site e de conseguir editá-lo. Se não tem acesso ao site ou não tem site ainda, é onde um serviço gerenciado ajuda."
+  - q: "E se eu corrigir todos os erros mas ainda não aparecer no Google?"
+    a: "Se corrigiu os cinco e ainda não aparece após 30 dias, os fatores mais prováveis são: concorrência local muito alta (você aparece, mas abaixo do que esperava), avaliações ainda insuficientes para o volume dos concorrentes, ou o site ainda não está indexado pelo Google. A ferramenta gratuita Google Search Console mostra se o site foi encontrado e quais buscas estão trazendo tráfego."
 ---
+
+Dois pintores de paredes abriram empresas na mesma cidade no mesmo mês. Seis meses depois, um tinha agenda cheia de contatos do Google; o outro vivia de indicação e ficava com tempo livre às quartas. A diferença não era preço nem qualidade — era que um tinha cometido os cinco erros abaixo e nunca corrigido.
 
 Aparecer no Google não é sorte. É o resultado de ter feito as coisas certas — e de não ter cometido os erros que tornam negócios invisíveis.
 
@@ -90,6 +94,11 @@ O Google Meu Negócio verificado começa a aparecer em 1 a 4 semanas. As melhori
 **Preciso contratar alguém para corrigir esses erros?**
 Os erros 1, 2 e 5 você consegue corrigir sozinho sem conhecimento técnico. Os erros 3 e 4 dependem de ter um site e de conseguir editá-lo. Se não tem acesso ao site ou não tem site ainda, é onde um serviço gerenciado ajuda.
 
+**E se eu corrigir todos os erros mas ainda não aparecer no Google?**
+Se corrigiu os cinco e ainda não aparece após 30 dias, os fatores mais prováveis são: concorrência local muito alta (você aparece, mas abaixo do que esperava), avaliações ainda insuficientes para o volume dos concorrentes, ou o site ainda não está indexado pelo Google. A ferramenta gratuita Google Search Console mostra se o site foi encontrado e quais buscas estão trazendo tráfego.
+
 ---
+
+O pintor do começo corrigiu os cinco erros em uma tarde. Dois meses depois, a agenda começou a encher com clientes que pesquisavam "pintor [cidade]" sem ter referência prévia. A reputação que ele já tinha — só não estava acessível a quem não o conhecia ainda.
 
 Leia também: [Por que seu negócio não aparece no Google](/blog/por-que-seu-negocio-nao-aparece-no-google/). Para ter tudo isso cuidado mensalmente por conta da Achou: [veja os planos](/#planos).

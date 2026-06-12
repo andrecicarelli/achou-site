@@ -13,7 +13,13 @@ faq:
     a: "Sim. O Google tem anúncios locais específicos que aparecem no Maps — chamados \"Local Services Ads\". São diferentes dos anúncios de busca comuns e têm formato próprio para negócios locais."
   - q: "Quanto tempo para ver resultado com Google Ads?"
     a: "Diferente do SEO, o resultado com Ads é imediato — cliques começam a aparecer assim que a campanha é ativada. Mas otimizar a campanha para ter custo por cliente eficiente leva de 2 a 4 semanas de ajustes."
+  - q: "Posso começar com R$200 por mês em Google Ads?"
+    a: "Com R$200, o volume de cliques é baixo — especialmente em nichos com CPC mais alto, como saúde e advocacia. Dá para testar viabilidade básica, mas raramente é suficiente para otimizar a campanha com dados. O investimento mínimo razoável para aprender o que está funcionando é R$400 a R$600 por mês."
 ---
+
+Dois dentistas na mesma cidade, mesmo bairro, preços parecidos. Um investiu R$2.000 em Google Ads num mês e conseguiu 3 novos pacientes. O outro investiu os mesmos R$2.000 e fechou 14. A diferença não estava no orçamento — estava em dois fatores: ter o site em ordem antes de anunciar, e saber que o ticket do implante (R$3.500 em média) justificava um custo por aquisição de R$140.
+
+O primeiro anunciava para uma cidade inteira; o segundo segmentava por bairro e por procedimento específico. O mesmo dinheiro, resultado completamente diferente.
 
 Google Ads é a plataforma de anúncios do Google. Quando você pesquisa qualquer serviço e os primeiros resultados têm a etiqueta "Patrocinado", são anúncios pagos.
 
@@ -81,6 +87,11 @@ Sim. O Google tem anúncios locais específicos que aparecem no Maps — chamado
 **Quanto tempo para ver resultado com Google Ads?**
 Diferente do SEO, o resultado com Ads é imediato — cliques começam a aparecer assim que a campanha é ativada. Mas otimizar a campanha para ter custo por cliente eficiente leva de 2 a 4 semanas de ajustes.
 
+**Posso começar com R$200 por mês em Google Ads?**
+Com R$200, o volume de cliques é baixo — especialmente em nichos com CPC mais alto, como saúde e advocacia. Dá para testar viabilidade básica, mas raramente é suficiente para otimizar a campanha com dados. O investimento mínimo razoável para aprender o que está funcionando é R$400 a R$600 por mês.
+
 ---
+
+O dentista do começo com 3 pacientes pausou os anúncios, organizou o site (velocidade, mobile, informação de procedimento), reduziu a segmentação geográfica e relançou com R$1.500. No mês seguinte: 11 novos pacientes. Mesmo produto, mesmo mercado — estrutura diferente.
 
 Leia também: [Google Ads vs. SEO: qual é melhor para pequenos negócios locais?](/blog/google-ads-vs-seo-qual-melhor/). Para começar pelo básico — site + Google Meu Negócio gerenciados — [veja os planos da Achou](/#planos).

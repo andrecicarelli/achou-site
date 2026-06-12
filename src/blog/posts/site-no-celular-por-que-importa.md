@@ -13,7 +13,13 @@ faq:
     a: "Para a grande maioria dos pequenos negócios, não. Um site responsivo (que funciona bem no celular) já é suficiente. Apps são mais relevantes para negócios com alto volume de interações recorrentes, como delivery."
   - q: "Quanto custa fazer um site mobile-friendly?"
     a: "Qualquer site profissional desenvolvido nos últimos 5 anos já deve ser responsivo. Se o seu site atual não é — geralmente porque foi feito há mais tempo — a opção mais prática costuma ser refazer com tecnologia atual, não tentar adaptar o site antigo."
+  - q: "O Google me penaliza no Maps também se o site for ruim no celular?"
+    a: "O Google Maps usa o Google Meu Negócio como base — não o site. Então a posição no Maps não é diretamente afetada pela qualidade do site no celular. Mas quando o visitante clica em \"site\" no perfil do Maps e cai em um site ruim no celular, a taxa de abandono é alta — o que reduz os sinais de conversão que o Google usa para medir relevância."
 ---
+
+Um mecânico de Guarulhos tinha um site feito há 6 anos. Era bonito na época, funcionava bem no computador, e ele ficou satisfeito. O problema apareceu quando testou no próprio celular: texto que exigia zoom para ler, telefone que não abria o discador no toque, e carregamento de 8 segundos numa tela com "Conectando…" piscando.
+
+Cada mês, dezenas de pessoas pesquisavam "mecânico em Guarulhos" no celular, clicavam no site dele, esperavam alguns segundos — e iam para o próximo resultado. Ele nem sabia que estava perdendo esses clientes.
 
 Em 2024, o Brasil atingiu mais de 250 milhões de smartphones em uso. O celular é o principal dispositivo de acesso à internet para a maior parte da população — e em muitos casos, o único.
 
@@ -93,6 +99,11 @@ Para a grande maioria dos pequenos negócios, não. Um site responsivo (que func
 **Quanto custa fazer um site mobile-friendly?**
 Qualquer site profissional desenvolvido nos últimos 5 anos já deve ser responsivo. Se o seu site atual não é — geralmente porque foi feito há mais tempo — a opção mais prática costuma ser refazer com tecnologia atual, não tentar adaptar o site antigo.
 
+**O Google me penaliza no Maps também se o site for ruim no celular?**
+O Google Maps usa o Google Meu Negócio como base — não o site. Então a posição no Maps não é diretamente afetada pela qualidade do site no celular. Mas quando o visitante clica em "site" no perfil do Maps e cai em um site ruim no celular, a taxa de abandono é alta — o que reduz os sinais de conversão que o Google usa para medir relevância.
+
 ---
+
+O mecânico do começo refez o site com tecnologia atual. Telefone clicável no topo, carregamento em 2 segundos, botão de WhatsApp fixo. Em dois meses, os contatos vindos pelo site triplicaram — o mesmo tráfego de sempre, agora conseguindo chegar ao passo de contato.
 
 Leia também: [Site profissional vs. site amador: a diferença que o cliente percebe](/blog/site-profissional-diferenca/). Todos os [sites criados pela Achou](/#planos) são desenvolvidos mobile-first e testados em dispositivos reais.

@@ -17,6 +17,12 @@ faq:
     a: "Uma campanha mal configurada desperdiça orçamento em cliques irrelevantes. Para quem não tem experiência, contratar quem saiba gerenciar ou usar um serviço que inclua gestão de Ads é mais eficiente do que tentar sozinho."
 ---
 
+Uma fisioterapeuta abriu a clínica e investiu R$1.500 em Google Ads nos primeiros três meses — sem ter configurado o Google Meu Negócio, sem ter site otimizado, sem avaliações. Resultado: 9 cliques pagos, 1 paciente novo, R$1.500 gastos. Parou os anúncios, achou que Google Ads "não funciona para fisioterapia".
+
+Três meses depois, configurou o GMB, fez um site simples e pediu avaliação para os primeiros pacientes. Sem nenhum anúncio, começou a receber 3 a 5 contatos novos por mês só pelo orgânico. Só então relançou os Ads — agora com base funcionando — e o resultado foi completamente diferente.
+
+A sequência importa mais do que a escolha entre pagar ou não pagar.
+
 Quando um pequeno negócio decide investir em aparecer no Google, a primeira dúvida costuma ser esta: pago anúncios agora ou construo o orgânico devagar?
 
 A resposta honesta: depende. Mas existem critérios claros para tomar a decisão — e a maioria dos donos de pequeno negócio que conheço está investindo na ordem errada.
@@ -88,5 +94,7 @@ R$400 a R$600 por mês já é suficiente para ter volume de dados e otimizar a c
 Uma campanha mal configurada desperdiça orçamento em cliques irrelevantes. Para quem não tem experiência, contratar quem saiba gerenciar ou usar um serviço que inclua gestão de Ads é mais eficiente do que tentar sozinho.
 
 ---
+
+A fisioterapeuta do começo hoje usa Ads e SEO juntos — o SEO traz o fluxo constante de buscas orgânicas, os Ads ampliam nos períodos de menor tráfego. O erro não foi usar anúncio. Foi usar anúncio antes de ter o básico no lugar.
 
 Para entender o SEO local na prática: [O que é SEO local e por que importa para o seu negócio](/blog/seo-local-o-que-e/). Para ter site e Google Meu Negócio funcionando com gestão mensal: [veja os planos da Achou](/#planos).
