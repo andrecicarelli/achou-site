@@ -2,6 +2,7 @@
 title: "Como pet shops e veterinários conseguem clientes pelo Google"
 description: "Donos de pets pesquisam antes de levar o animal. Veja como aparecer para essas buscas e converter novos clientes."
 date: 2026-06-25
+updated: 2026-06-12
 cluster: maps-pratica
 tags: posts
 permalink: /blog/como-pet-shops-conseguem-clientes-google/
@@ -68,7 +69,7 @@ O mercado pet tem uma característica valiosa: clientes com boa experiência ret
 
 Um cliente fiel de pet shop pode representar R$100 a R$300 por mês em serviços recorrentes. Uma consulta veterinária que abre o relacionamento pode gerar anos de acompanhamento.
 
-Pedir avaliações logo após cada atendimento bem-sucedido é o hábito que, com consistência, constrói a posição no Maps ao longo do tempo. Em 3 meses de pedidos consistentes, é possível construir uma base de avaliações que muda a posição significativamente.
+Pedir avaliações logo após cada atendimento bem-sucedido é o hábito que, com consistência, constrói a posição no Maps ao longo do tempo. Em 3 meses de pedidos consistentes, é possível construir uma base de avaliações que muda a posição significativamente. O método completo — momento certo, pedido pessoal, link direto — está em [como conseguir mais avaliações no Google](/blog/avaliacoes-google-como-conseguir-mais/).
 
 ## Site vs. só Google Meu Negócio
 
@@ -89,4 +90,6 @@ Perfil verificado e otimizado começa a aparecer no Maps em 1 a 4 semanas. A pos
 
 ---
 
-Leia também: [Como conseguir mais avaliações no Google](/blog/avaliacoes-google-como-conseguir-mais/). Para ter site e Google Meu Negócio gerenciados mensalmente: [veja os planos da Achou](/#planos).
+O cliente fiel de pet shop não vem do Instagram — vem da primeira vez que pesquisou "banho e tosa perto de mim" e encontrou um perfil com boas fotos e avaliações que descreviam exatamente o cuidado que ele queria para o animal. A partir daí, volta com regularidade e indica para os amigos que têm pet.
+
+Para montar esse perfil do zero: [guia completo do Google Meu Negócio](/blog/google-meu-negocio-guia-completo/). Para ter tudo gerenciado mensalmente: [veja os planos da Achou](/#planos).

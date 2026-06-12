@@ -2,6 +2,7 @@
 title: "Como mecânicos conseguem clientes pelo Google"
 description: "Oficinas mecânicas com boa presença digital recebem clientes novos sem depender de indicação. Veja o que funciona para esse segmento."
 date: 2026-06-14
+updated: 2026-06-12
 cluster: maps-pratica
 tags: posts
 permalink: /blog/como-mecanicos-conseguem-clientes-google/
@@ -40,7 +41,7 @@ A desconfiança com mecânicos é um estereótipo cultural arraigado no Brasil. 
 
 Avaliações que mencionam honestidade, transparência e preço justo têm valor desproporcional para esse segmento. Uma avaliação que diz *"fez o serviço certo sem inventar problema, cobrou o que combinou"* converte muito mais do que avaliações genéricas de outros negócios.
 
-Esse é o ativo que mais diferencia uma oficina bem posicionada. E é completamente acessível — basta pedir para clientes satisfeitos.
+Esse é o ativo que mais diferencia uma oficina bem posicionada. E é completamente acessível — basta pedir para clientes satisfeitos. O processo completo de como construir esse ativo está em [como conseguir mais avaliações no Google](/blog/avaliacoes-google-como-conseguir-mais/).
 
 ## Como otimizar o perfil para uma oficina mecânica
 
@@ -95,4 +96,6 @@ O Google Meu Negócio já gera resultados sem site. O site amplifica esses resul
 
 ---
 
-Leia também: [Guia completo do Google Meu Negócio](/blog/google-meu-negocio-guia-completo/). Para ter site e Google configurados e gerenciados mensalmente: [veja os planos da Achou](/#planos).
+O cliente que pesquisa "mecânico de emergência" às 21h vai para o primeiro nome que aparece com avaliações suficientes para confiar. Não espera indicação, não compara muito — decide em 30 segundos. Estar nessa posição é o trabalho de semanas, não de anos.
+
+Veja como o perfil completo é montado: [guia completo do Google Meu Negócio](/blog/google-meu-negocio-guia-completo/). Para ter site e Google gerenciados mensalmente pela Achou: [veja os planos](/#planos).

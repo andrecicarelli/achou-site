@@ -2,6 +2,7 @@
 title: "Como restaurantes e lanchonetes aparecem no Google Maps"
 description: "Para negócios de alimentação que não dependem de delivery apps, a presença no Google Maps é o principal canal de descoberta."
 date: 2026-06-23
+updated: 2026-06-12
 cluster: maps-pratica
 tags: posts
 permalink: /blog/como-restaurantes-aparecem-google-maps/
@@ -60,6 +61,10 @@ O Google permite adicionar itens do cardápio diretamente no perfil. Um cardápi
 
 Adicione pelo menos os pratos principais e as opções mais populares.
 
+### Fotos novas todo mês — o sinal que o Google lê como atividade
+
+Perfil com última atualização de 8 meses passa dois problemas ao mesmo tempo: para o algoritmo, sugere inatividade; para o cliente, levanta a dúvida se o restaurante ainda funciona. A rotina de 2 a 4 fotos novas por mês é o que separa perfis que sobem dos que ficam parados. O processo completo está em [Google Meu Negócio: fotos e posts para aparecer mais](/blog/google-meu-negocio-fotos-e-posts/).
+
 ### Avaliações com menção à comida específica
 
 *"O frango grelhado era perfeito — temperado na medida e muito suculento."*
@@ -91,4 +96,6 @@ São públicos diferentes. iFood atinge quem quer delivery em casa. Google Maps 
 
 ---
 
-Leia também: [Como aparecer no Google Maps: passo a passo](/blog/como-aparecer-google-maps/). Para ter perfil e site gerenciados mensalmente: [veja os planos da Achou](/#planos).
+Para restaurantes, a jornada de aquisição é direta: o cliente pesquisa, vê o perfil com fotos convidativas e avaliações sobre o prato que ele quer comer, e vai. Não há proposta, não há follow-up. Só o perfil que convence — ou não convence — em 10 segundos.
+
+Veja o passo a passo técnico: [como aparecer no Google Maps](/blog/como-aparecer-google-maps/). Para ter perfil e fotos gerenciados mensalmente sem você precisar fazer: [veja os planos da Achou](/#planos).

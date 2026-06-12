@@ -2,6 +2,7 @@
 title: "Como personal trainers conseguem alunos pelo Google"
 description: "Personal trainers que aparecem bem no Google recebem consultas de alunos que nunca os viram treinar. Veja como funciona para esse mercado."
 date: 2026-06-18
+updated: 2026-06-12
 cluster: diagnostico
 tags: posts
 permalink: /blog/como-personal-trainers-conseguem-alunos-google/
@@ -15,9 +16,9 @@ faq:
     a: "Perfil verificado e otimizado começa a aparecer em 1 a 4 semanas. Primeiros contatos orgânicos em 30 a 90 dias, dependendo da concorrência na cidade e nas especialidades."
 ---
 
-O mercado de personal training cresceu muito no Brasil nos últimos anos. Mais profissionais competindo pelos mesmos clientes. E a maioria ainda depende inteiramente de indicação para conseguir alunos novos.
+O mercado de personal training cresceu muito no Brasil nos últimos anos. Mais profissionais competindo pelos mesmos clientes. E a maioria ainda depende inteiramente de indicação para conseguir alunos novos — enquanto o Google Meu Negócio funciona como um canal de aquisição que trabalha 24h sem nenhum post diário.
 
-Quem consegue aparecer no Google quando alguém pesquisa por um personal trainer local tem uma vantagem enorme sobre os concorrentes que não aparecem — independente de quantos anos de experiência tem.
+Quem consegue aparecer no Google quando alguém pesquisa por um personal trainer local tem uma vantagem enorme sobre os concorrentes que não aparecem — independente de quantos anos de experiência tem. A diferença entre os dois canais está explicada em [por que o Instagram sozinho não traz clientes novos](/blog/por-que-instagram-nao-e-suficiente/).
 
 ## Como alunos novos encontram personal trainers online
 
@@ -91,4 +92,6 @@ Perfil verificado e otimizado começa a aparecer em 1 a 4 semanas. Primeiros con
 
 ---
 
-Leia também: [Como aparecer no Google Maps](/blog/como-aparecer-google-maps/). Para ter site e Google Meu Negócio no ar e gerenciados mensalmente: [veja os planos da Achou](/#planos).
+Indicação tem teto: depende de quem os seus alunos conhecem. O Google não tem teto — atinge qualquer pessoa na sua cidade ou no Brasil que pesquise o serviço que você oferece. As duas fontes juntas constroem uma agenda que não trava quando a rede de contatos está em silêncio.
+
+Veja o passo a passo de como aparecer no Maps: [como aparecer no Google Maps](/blog/como-aparecer-google-maps/). Para ter site e Google Meu Negócio gerenciados mensalmente: [veja os planos da Achou](/#planos).
