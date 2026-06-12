@@ -560,10 +560,11 @@ section { padding: 5rem 0; }
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
-  align-items: start;
 }
 
 .plan-card {
+  display: flex;
+  flex-direction: column;
   background: var(--white);
   border-radius: var(--radius);
   padding: 2rem;
@@ -678,7 +679,7 @@ section { padding: 5rem 0; }
   margin-top: 2px;
 }
 
-.plan-cta { width: 100%; justify-content: center; }
+.plan-cta { width: 100%; justify-content: center; margin-top: auto; }
 
 /* ── FOR WHO ── */
 #para-quem { background: var(--white); }
