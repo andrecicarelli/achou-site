@@ -5,6 +5,13 @@ date: 2026-06-26
 tags: posts
 permalink: /blog/metricas-pequeno-negocio-acompanhar-site/
 image: /assets/covers/metricas-pequeno-negocio-acompanhar-site.jpg
+faq:
+  - q: "Preciso instalar o Google Analytics para ver essas métricas?"
+    a: "Para as métricas do site (visitantes, origem, cliques), sim — o Google Analytics precisa estar instalado. Para as métricas do Google Meu Negócio, não — o painel já mostra esses dados automaticamente."
+  - q: "Meu site tem poucas visitas. Como aumentar?"
+    a: "As principais alavancas para aumentar tráfego orgânico local: Google Meu Negócio bem configurado com avaliações crescentes, e site com conteúdo que mencione claramente os serviços e a cidade. Artigos de blog sobre temas relevantes para o seu público também ajudam a longo prazo."
+  - q: "Os dados aparecem em tempo real?"
+    a: "O Google Analytics mostra dados com um pequeno atraso (geralmente algumas horas). O Google Meu Negócio atualiza as métricas diariamente. Para acompanhamento mensal, ambos são suficientes."
 ---
 
 A maioria dos donos de pequeno negócio que tem site nunca abre o Google Analytics. Isso é um erro — não porque seja obrigatório monitorar tudo, mas porque quatro números simples revelam se a presença digital está gerando resultado ou não.

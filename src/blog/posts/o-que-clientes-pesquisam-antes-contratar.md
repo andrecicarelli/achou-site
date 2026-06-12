@@ -1,10 +1,17 @@
 ---
-title: "O que os clientes pesquisam antes de contratar um serviço local"
+title: "O que clientes pesquisam antes de contratar um serviço"
 description: "Entender o comportamento de busca do seu cliente potencial é o primeiro passo para aparecer no momento certo."
 date: 2026-06-19
 tags: posts
 permalink: /blog/o-que-clientes-pesquisam-antes-contratar/
 image: /assets/covers/o-que-clientes-pesquisam-antes-contratar.jpg
+faq:
+  - q: "O cliente pesquisa preço antes de contratar?"
+    a: "Sim — especialmente para serviços com ticket mais alto. Um site que tem pelo menos uma faixa de preço ou \"orçamento pelo WhatsApp\" converte melhor do que um que não menciona preço. O silêncio sobre preço não evita a conversa — só adia para depois do contato, onde a desistência é mais alta."
+  - q: "Clientes leem as respostas às avaliações negativas?"
+    a: "Sim. Futuros clientes leem tanto a avaliação negativa quanto a resposta do negócio. Uma resposta profissional e respeitosa a uma avaliação negativa frequentemente converte melhor do que um perfil com apenas avaliações positivas sem nenhuma resposta."
+  - q: "Quanto tempo o cliente leva para decidir?"
+    a: "Para serviços urgentes (problema em casa, dor de dente), a decisão acontece em minutos — o cliente liga para o primeiro que parece confiável. Para serviços planejados (ortodontia, reforma), o processo pode levar dias ou semanas — com múltiplas visitas ao site e perfil antes do contato."
 ---
 
 Antes de contratar qualquer serviço local — de um encanador a um dentista — o cliente moderno passa por um processo de pesquisa. Entender esse processo ajuda a posicionar o negócio exatamente onde a decisão acontece.

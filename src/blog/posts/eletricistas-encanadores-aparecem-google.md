@@ -1,10 +1,17 @@
 ---
-title: "Como eletricistas e encanadores conseguem mais serviços pelo Google"
+title: "Como eletricistas e encanadores aparecem no Google"
 description: "Serviços de manutenção residencial têm alta demanda de busca urgente. Quem aparece primeiro no Google leva o serviço."
 date: 2026-06-28
 tags: posts
 permalink: /blog/eletricistas-encanadores-aparecem-google/
 image: /assets/covers/eletricistas-encanadores-aparecem-google.jpg
+faq:
+  - q: "Vale mais investir em Google Ads ou SEO orgânico para eletricista e encanador?"
+    a: "Para buscas de urgência, anúncios têm conversão muito alta — o cliente está pronto para contratar agora. Para manutenção planejada e instalações, o SEO orgânico traz resultado mais sustentável. O ideal é começar pelo Google Meu Negócio e SEO, e adicionar Ads para buscas de urgência quando o orçamento permitir."
+  - q: "Como consigo avaliações se meus clientes não têm costume de avaliar online?"
+    a: "Pedir pessoalmente no momento certo — logo após um serviço bem-sucedido — tem uma taxa de conversão muito maior do que esperar que o cliente avalie espontaneamente. Mande o link direto por WhatsApp com uma mensagem curta: \"Se ficou satisfeito, pode me avaliar no Google? Ajuda muito.\" A maioria das pessoas faz quando você pede e facilita o processo."
+  - q: "Preciso de site ou o Google Meu Negócio resolve?"
+    a: "Para começar, o Google Meu Negócio já gera resultado. O site amplifica — especialmente para serviços de maior valor como instalações elétricas completas ou reformas hidráulicas onde o cliente pesquisa com mais cuidado antes de contratar."
 ---
 
 Quando alguém tem um problema elétrico ou de encanamento em casa, não tem tempo para perguntar para amigos e esperar resposta. O comportamento é imediato: pega o celular, pesquisa no Google, e chama o primeiro que parece confiável.

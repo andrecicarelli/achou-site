@@ -5,6 +5,13 @@ date: 2026-06-16
 tags: posts
 permalink: /blog/como-fisioterapeutas-atraem-pacientes/
 image: /assets/covers/como-fisioterapeutas-atraem-pacientes.jpg
+faq:
+  - q: "Fisioterapeuta autônomo tem chance contra clínicas maiores?"
+    a: "Sim. O Google Maps não privilegia clínicas grandes — privilegia perfis bem configurados com avaliações recentes. Um profissional autônomo com 40 avaliações e perfil completo aparece antes de uma clínica grande com 5 avaliações e perfil incompleto."
+  - q: "Preciso de site ou o Google Meu Negócio resolve?"
+    a: "O Google Meu Negócio é o mais importante e já gera resultados. O site amplia os resultados para buscas mais específicas e aumenta a credibilidade para pacientes que clicam para saber mais antes de agendar."
+  - q: "Quanto tempo para começar a receber pacientes pelo Google?"
+    a: "O perfil verificado e bem configurado começa a aparecer no Maps em 1 a 4 semanas. Primeiros contatos orgânicos costumam aparecer em 30 a 90 dias, dependendo da concorrência na cidade."
 ---
 
 Um paciente que precisa de fisioterapia chega por dois caminhos: indicação médica ou pesquisa no Google. O primeiro você não controla. O segundo, sim.

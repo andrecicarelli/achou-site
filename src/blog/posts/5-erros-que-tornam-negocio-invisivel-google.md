@@ -5,6 +5,13 @@ date: 2026-06-06
 tags: posts
 permalink: /blog/5-erros-que-tornam-negocio-invisivel-google/
 image: /assets/covers/5-erros-que-tornam-negocio-invisivel-google.jpg
+faq:
+  - q: "Qual dos cinco erros é mais urgente de corrigir?"
+    a: "O erro 1 — verificação do Google Meu Negócio — é o mais urgente. Sem ele, nada do resto funciona. O Google simplesmente não mostra o perfil. Se ainda não verificou, faça isso antes de qualquer outra coisa."
+  - q: "Quanto tempo depois de corrigir esses erros começo a aparecer no Google?"
+    a: "O Google Meu Negócio verificado começa a aparecer em 1 a 4 semanas. As melhorias de posição por causa de avaliações e conteúdo do site aparecem em 60 a 90 dias com consistência."
+  - q: "Preciso contratar alguém para corrigir esses erros?"
+    a: "Os erros 1, 2 e 5 você consegue corrigir sozinho sem conhecimento técnico. Os erros 3 e 4 dependem de ter um site e de conseguir editá-lo. Se não tem acesso ao site ou não tem site ainda, é onde um serviço gerenciado ajuda."
 ---
 
 Aparecer no Google não é sorte. É o resultado de ter feito as coisas certas — e de não ter cometido os erros que tornam negócios invisíveis.

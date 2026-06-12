@@ -1,10 +1,17 @@
 ---
-title: "Google Meu Negócio: como usar fotos e posts para aparecer mais"
+title: "Google Meu Negócio: fotos e posts para aparecer mais"
 description: "Fotos e posts regulares no Google Meu Negócio são um dos fatores de rankeamento mais ignorados — e mais fáceis de executar."
 date: 2026-06-29
 tags: posts
 permalink: /blog/google-meu-negocio-fotos-e-posts/
 image: /assets/covers/google-meu-negocio-fotos-e-posts.jpg
+faq:
+  - q: "Fotos de banco de imagem funcionam no Google Meu Negócio?"
+    a: "Funcionam tecnicamente — o Google não bloqueia. Mas têm menos impacto do que fotos reais do negócio. O algoritmo valoriza autenticidade, e fotos genéricas de banco de imagem não mostram o seu espaço, equipe ou trabalho real."
+  - q: "Posts antigos no perfil atrapalham?"
+    a: "Não atrapalham, mas perdem relevância com o tempo. O Google mostra os posts mais recentes em destaque. Um post com uma promoção que terminou meses atrás ainda visível pode gerar confusão para o cliente — vale remover ou atualizar."
+  - q: "Quanto tempo até as novas fotos impactarem o rankeamento?"
+    a: "O impacto não é imediato e isolado. Fotos novas são um dos muitos sinais que o Google usa. O efeito é gradual — um perfil consistentemente atualizado ao longo de meses aparece melhor do que um que recebeu 20 fotos de uma vez e ficou parado depois."
 ---
 
 Criar o Google Meu Negócio e verificar é o passo 1. A maioria dos negócios para por aí.

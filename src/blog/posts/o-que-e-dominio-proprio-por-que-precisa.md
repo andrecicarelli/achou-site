@@ -1,10 +1,19 @@
 ---
-title: "O que é domínio próprio e por que o seu negócio precisa de um"
+title: "O que é domínio próprio e por que seu negócio precisa"
 description: "Ter um site em 'seusite.wix.com' passa uma mensagem diferente de 'seusite.com.br'. A diferença importa mais do que parece."
 date: 2026-06-24
 tags: posts
 permalink: /blog/o-que-e-dominio-proprio-por-que-precisa/
 image: /assets/covers/o-que-e-dominio-proprio-por-que-precisa.jpg
+faq:
+  - q: "Posso usar o mesmo domínio para o site e para o e-mail profissional?"
+    a: "Sim. Um único domínio suporta tanto o site (`www.suaempresa.com.br`) quanto e-mails profissionais (`contato@suaempresa.com.br`). São funções diferentes do mesmo endereço."
+  - q: "E se o nome que eu quero já estiver registrado?"
+    a: "Você pode tentar variações — adicionar a cidade (\"suaoficina-campinas.com.br\"), o serviço (\"oficinamecanica-bairro.com.br\"), ou usar uma extensão diferente (.com em vez de .com.br). Pesquise no registro.br para ver disponibilidade."
+  - q: "Preciso renovar o domínio todo ano?"
+    a: "Sim. O domínio `.com.br` custa cerca de R$40 por ano e precisa ser renovado anualmente. Se você não renovar, o endereço fica disponível para outra pessoa registrar."
+  - q: "O site precisa ser lançado imediatamente depois de registrar o domínio?"
+    a: "Não. Você pode registrar o domínio agora para garantir o endereço, e lançar o site depois. O domínio fica reservado no seu nome enquanto estiver pago."
 ---
 
 Quando você pesquisa qualquer empresa no Google e encontra o site dela, o endereço na barra do navegador diz muito antes de você ler uma palavra do conteúdo.

@@ -5,6 +5,13 @@ date: 2026-06-14
 tags: posts
 permalink: /blog/como-mecanicos-conseguem-clientes-google/
 image: /assets/covers/como-mecanicos-conseguem-clientes-google.jpg
+faq:
+  - q: "Vale a pena fazer anúncios no Google para a oficina?"
+    a: "Para serviços de urgência (\"mecânico de emergência\", \"reboque\"), anúncios fazem sentido — o cliente está pronto para contratar agora. Para revisões e manutenção planejada, o SEO orgânico tende a trazer resultados mais sustentáveis e com custo menor a longo prazo."
+  - q: "Como lidar com avaliações de clientes insatisfeitos?"
+    a: "Responda sempre, com calma. Reconheça o problema, agradeça o feedback, e convide para resolver por outro canal. Clientes potenciais que leem isso vão ver profissionalismo — o que frequentemente compensa o impacto de uma avaliação negativa."
+  - q: "Preciso de site se já tenho perfil no Google?"
+    a: "O Google Meu Negócio já gera resultados sem site. O site amplifica esses resultados e aumenta a credibilidade — especialmente para clientes que querem saber mais sobre os serviços e especialidades antes de ligar."
 ---
 
 Um dono de carro que precisa de revisão ou está com problema no veículo não pergunta mais para o vizinho. Ele pega o celular, pesquisa "mecânico perto de mim" ou "oficina mecânica [bairro]", olha o Google Maps, e liga para a oficina que aparece bem e tem boas avaliações.

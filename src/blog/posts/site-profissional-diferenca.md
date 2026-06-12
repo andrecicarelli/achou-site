@@ -1,10 +1,17 @@
 ---
-title: "Site profissional vs. site amador: a diferença que o cliente percebe"
+title: "Site profissional vs. amador: a diferença que o cliente vê"
 description: "Um site ruim pode ser pior do que não ter site nenhum. Entenda o que o cliente vê — e o que você perde quando isso não está certo."
 date: 2026-06-04
 tags: posts
 permalink: /blog/site-profissional-diferenca/
 image: /assets/covers/site-profissional-diferenca.jpg
+faq:
+  - q: "Preciso de site se já tenho Instagram?"
+    a: "São canais diferentes. O Instagram atinge quem já te conhece ou está navegando. O site e o Google atingem quem está pesquisando ativamente por um serviço. Para atrair clientes novos que nunca ouviram falar de você, o Google é o canal que importa — e o site é parte fundamental disso."
+  - q: "Qual é o tamanho mínimo de um site que funciona?"
+    a: "Para a maioria dos negócios locais, uma página bem feita já resolve: quem você é, o que você faz, onde você atua, e como entrar em contato. Adicionar uma seção de avaliações e uma página de blog para SEO é o próximo nível — mas não é obrigatório para começar."
+  - q: "Meu negócio precisa de domínio próprio?"
+    a: "Sim. Um endereço como `seunegocio.com.br` transmite profissionalismo. Um endereço como `seunegocio.wixsite.com/site` comunica que o negócio não investiu nem o mínimo em presença digital — o que levanta dúvidas sobre qualidade de serviço."
 ---
 
 Quando um potencial cliente pesquisa pelo seu serviço no Google e encontra seu site, tem menos de 10 segundos para decidir se vai ficar ou vai embora.

@@ -5,6 +5,13 @@ date: 2026-06-12
 tags: posts
 permalink: /blog/como-saloes-beleza-atraem-clientes-google/
 image: /assets/covers/como-saloes-beleza-atraem-clientes-google.jpg
+faq:
+  - q: "Vale mais focar no Instagram ou no Google?"
+    a: "Os dois têm papéis diferentes. Instagram mantém relacionamento com clientes existentes. Google atrai clientes novos que nunca te conheceram. Para crescimento, o Google é o canal de aquisição — o Instagram é o canal de fidelização."
+  - q: "Quanto tempo para começar a receber agendamentos pelo Google?"
+    a: "O perfil verificado e bem configurado começa a aparecer no Maps em 1 a 4 semanas. Com avaliações consistentes, os primeiros agendamentos orgânicos costumam aparecer entre 30 e 90 dias."
+  - q: "Salão pequeno tem chance contra redes grandes?"
+    a: "Sim. Redes grandes muitas vezes têm presença digital descuidada porque ninguém é especificamente responsável por isso. Um salão pequeno com perfil completo, fotos de qualidade e avaliações recentes aparece antes de uma rede grande com perfil desatualizado."
 ---
 
 O mercado de beleza é um dos mais competitivos para negócios locais. Em qualquer bairro de cidade média ou grande, existem dezenas de salões disputando os mesmos clientes.

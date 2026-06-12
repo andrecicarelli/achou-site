@@ -1,10 +1,17 @@
 ---
-title: "Quanto custa ter um site profissional para pequenas empresas em 2026"
+title: "Quanto custa um site profissional para pequena empresa"
 description: "Os modelos de contratação de site mudaram bastante. Entenda as opções disponíveis e qual faz mais sentido para o seu caso."
 date: 2026-06-13
 tags: posts
 permalink: /blog/quanto-custa-site-pequena-empresa/
 image: /assets/covers/quanto-custa-site-pequena-empresa.jpg
+faq:
+  - q: "O domínio (.com.br) é meu ou fica com a empresa que fez o site?"
+    a: "Depende do contrato. Sempre especifique que o domínio deve ser registrado no seu nome. Na Achou, o domínio é sempre do cliente — se cancelar, o endereço fica com você."
+  - q: "Posso começar com um site mais simples e melhorar depois?"
+    a: "Sim. Um site de uma página com informações básicas já gera resultado. O importante é começar. Adicionar mais páginas, blog, e funcionalidades pode acontecer ao longo do tempo."
+  - q: "O Google prefere sites mais elaborados?"
+    a: "Não. O Google prefere sites que carregam rápido, funcionam bem no celular, e têm conteúdo claro e relevante. Um site simples bem feito performa melhor do que um site elaborado mal otimizado."
 ---
 
 Quando um dono de pequeno negócio pergunta "quanto custa um site?", a resposta honesta é: depende do modelo que você escolher. E os modelos disponíveis hoje são bem diferentes dos que existiam há cinco anos.

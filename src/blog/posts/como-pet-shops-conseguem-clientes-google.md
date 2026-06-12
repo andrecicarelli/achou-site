@@ -5,6 +5,13 @@ date: 2026-06-25
 tags: posts
 permalink: /blog/como-pet-shops-conseguem-clientes-google/
 image: /assets/covers/como-pet-shops-conseguem-clientes-google.jpg
+faq:
+  - q: "Vale a pena ter site e Instagram além do Google Meu Negócio?"
+    a: "Sim, mas com papéis diferentes. Google Maps atrai clientes novos que pesquisam ativamente. Instagram mantém relacionamento com clientes existentes — ótimo para mostrar os pets atendidos (com autorização) e criar conexão emocional. O site amplifica o rankeamento e transmite mais credibilidade para serviços de maior valor."
+  - q: "Como aparecer para buscas de emergência veterinária?"
+    a: "No Google Meu Negócio, mencione explicitamente \"atendimento de emergência 24h\" na descrição e nos atributos do perfil. No site, tenha uma página ou seção dedicada a \"emergências veterinárias\" com o telefone em destaque e o horário de plantão."
+  - q: "Quanto tempo para começar a receber clientes pelo Google?"
+    a: "Perfil verificado e otimizado começa a aparecer no Maps em 1 a 4 semanas. A posição melhora ao longo de 2 a 3 meses conforme você acumula avaliações recentes."
 ---
 
 O mercado pet no Brasil é um dos que mais cresceu na última década. E donos de pets são clientes fiéis — quem encontra um pet shop ou veterinário de confiança volta com regularidade e indica para amigos que têm animais.

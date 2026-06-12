@@ -1,10 +1,17 @@
 ---
 title: "Como personal trainers conseguem alunos pelo Google"
-description: "Personal trainers que aparecem bem no Google recebem consultas de potenciais alunos que nunca os viram treinar. Veja como funciona para esse segmento específico."
+description: "Personal trainers que aparecem bem no Google recebem consultas de alunos que nunca os viram treinar. Veja como funciona para esse mercado."
 date: 2026-06-18
 tags: posts
 permalink: /blog/como-personal-trainers-conseguem-alunos-google/
 image: /assets/covers/como-personal-trainers-conseguem-alunos-google.jpg
+faq:
+  - q: "Preciso de CREF para criar perfil no Google?"
+    a: "Você precisa de CREF para exercer a profissão. Para criar o perfil no Google, não — é o mesmo para qualquer negócio. Mas mencionar o registro profissional no perfil e no site aumenta a credibilidade e a confiança de potenciais alunos."
+  - q: "Vale a pena investir em anúncios para personal trainer?"
+    a: "Para personal trainers que atendem em domicílio ou online — onde a área de alcance é maior — anúncios podem complementar o SEO orgânico. Para quem atende só em uma região específica, o SEO local costuma trazer resultado mais sustentável com custo menor."
+  - q: "Quanto tempo para começar a receber contatos pelo Google?"
+    a: "Perfil verificado e otimizado começa a aparecer em 1 a 4 semanas. Primeiros contatos orgânicos em 30 a 90 dias, dependendo da concorrência na cidade e nas especialidades."
 ---
 
 O mercado de personal training cresceu muito no Brasil nos últimos anos. Mais profissionais competindo pelos mesmos clientes. E a maioria ainda depende inteiramente de indicação para conseguir alunos novos.

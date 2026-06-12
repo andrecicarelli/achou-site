@@ -5,6 +5,15 @@ date: 2026-06-10
 tags: posts
 permalink: /blog/avaliacoes-google-como-conseguir-mais/
 image: /assets/covers/avaliacoes-google-como-conseguir-mais.jpg
+faq:
+  - q: "Posso pedir para amigos e familiares deixarem avaliações?"
+    a: "Tecnicamente, o Google não recomenda avaliações de pessoas que não são clientes reais. Na prática, algumas avaliações de pessoas próximas passam. Mas se o padrão for artificial demais (muitas avaliações de contas novas ao mesmo tempo, por exemplo), o Google pode remover ou penalizar."
+  - q: "O Google pode remover minhas avaliações?"
+    a: "Sim. O Google remove avaliações que violam seus termos — spam, conteúdo ofensivo, avaliações falsas, ou avaliações de concorrentes. Avaliações legítimas raramente são removidas, mas pode acontecer por erro de algoritmo. Se uma avaliação legítima foi removida, você pode contestar pelo painel do Google Meu Negócio."
+  - q: "Tenho uma avaliação negativa injusta. O que fazer?"
+    a: "Primeiro, responda profissionalmente (como descrito acima). Se a avaliação violar os termos do Google — conteúdo falso, spam, ou vindo de alguém que nunca foi cliente — você pode denunciar pelo painel para análise. O Google avalia caso a caso."
+  - q: "Qual é o número ideal de avaliações para aparecer bem no Maps?"
+    a: "Não existe um número mágico. Depende da concorrência na sua cidade e no seu segmento. Para a maioria das cidades brasileiras de médio porte, 30 a 50 avaliações já colocam o negócio em posição competitiva. Em cidades grandes com muito concorrente, pode precisar de mais."
 ---
 
 Uma pesquisa do BrightLocal mostrou que 87% dos consumidores leem avaliações online antes de escolher um negócio local. No Brasil, o comportamento não é diferente — antes de ligar para um dentista novo ou chamar um eletricista desconhecido, a maioria das pessoas vai ao Google Maps e olha o que outras pessoas disseram.

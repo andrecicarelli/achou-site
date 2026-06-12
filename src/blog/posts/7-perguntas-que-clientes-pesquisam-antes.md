@@ -1,10 +1,17 @@
 ---
-title: "7 perguntas que seus clientes pesquisam no Google antes de te contratar"
+title: "7 perguntas que clientes pesquisam antes de contratar"
 description: "Entender o que seu cliente digita no Google antes de decidir é uma vantagem competitiva. Aqui estão as mais comuns para serviços locais."
 date: 2026-06-22
 tags: posts
 permalink: /blog/7-perguntas-que-clientes-pesquisam-antes/
 image: /assets/covers/7-perguntas-que-clientes-pesquisam-antes.jpg
+faq:
+  - q: "Preciso responder cada uma dessas perguntas com uma página diferente no site?"
+    a: "Não necessariamente. Uma página principal bem estruturada já cobre a maioria. Páginas separadas por especialidade fazem sentido quando você quer aparecer para buscas muito específicas (tipo de serviço + cidade específica)."
+  - q: "Como saber o que os meus clientes estão pesquisando?"
+    a: "O Google Search Console mostra as buscas que trouxeram visitantes ao seu site. O Google Meu Negócio mostra as buscas que levaram pessoas ao seu perfil. Ambos são gratuitos e revelam o que seus clientes reais estão pesquisando."
+  - q: "Preciso de blog para aparecer nessas buscas?"
+    a: "Para buscas de serviço + cidade, não — o Google Meu Negócio e o site já cobrem. Para buscas de pesquisa (como \"quanto custa\" ou \"como funciona\"), artigos de blog são o canal mais eficaz."
 ---
 
 A maioria das pessoas não pesquisa direto o nome do negócio quando está procurando um serviço novo. Elas pesquisam pelo problema, pelo serviço, ou pela localização.

@@ -5,6 +5,13 @@ date: 2026-06-05
 tags: posts
 permalink: /blog/como-dentistas-conseguem-mais-pacientes-google/
 image: /assets/covers/como-dentistas-conseguem-mais-pacientes-google.jpg
+faq:
+  - q: "Consultórios menores têm chance contra clínicas grandes?"
+    a: "Sim. O Google Maps não favorece quem tem mais funcionários ou faturamento — favorece quem tem o perfil mais bem configurado e mais avaliações recentes. Um consultório de um profissional com 60 avaliações aparece antes de uma clínica grande com 10 avaliações."
+  - q: "Preciso ter site ou o Google Meu Negócio é suficiente?"
+    a: "O Google Meu Negócio é o mais importante e já resolve boa parte. O site amplifica os resultados — especialmente para buscas de procedimentos específicos como \"implante dentário em [cidade]\" — e transmite mais credibilidade quando o paciente clica para saber mais."
+  - q: "Quanto tempo para começar a receber pacientes pelo Google?"
+    a: "O perfil verificado e otimizado começa a aparecer no Maps em 1 a 4 semanas. Os primeiros contatos orgânicos sem anúncios costumam aparecer entre 30 e 90 dias, dependendo da concorrência na cidade."
 ---
 
 Um paciente novo que faz um implante vale entre R$2.500 e R$5.000 para um consultório odontológico. Um tratamento ortodôntico, entre R$3.000 e R$8.000.

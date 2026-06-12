@@ -5,6 +5,13 @@ date: 2026-06-08
 tags: posts
 permalink: /blog/por-que-concorrente-aparece-antes/
 image: /assets/covers/por-que-concorrente-aparece-antes.jpg
+faq:
+  - q: "Posso pagar para aparecer antes do meu concorrente?"
+    a: "Sim — com Google Ads, você pode aparecer acima dos resultados orgânicos para determinadas buscas. Mas os resultados do Google Maps (o Local Pack) são orgânicos e gratuitos. Para aparecer lá, é trabalho de configuração e manutenção, não de orçamento."
+  - q: "Quanto tempo leva para o meu perfil aparecer depois de otimizado?"
+    a: "O perfil começa a aparecer em 1 a 4 semanas após a verificação e otimização. A posição no ranking melhora ao longo de 60 a 90 dias conforme avaliações chegam e o perfil demonstra atividade."
+  - q: "O que fazer se o concorrente também começar a melhorar o perfil?"
+    a: "Quanto mais você investir em avaliações e manutenção, melhor. O que mantém a posição a longo prazo não é um esforço único — é consistência mensal. Quem é mais consistente por mais tempo acaba ganhando."
 ---
 
 Você já pesquisou pelo seu próprio serviço no Google e viu um concorrente aparecer na sua frente?

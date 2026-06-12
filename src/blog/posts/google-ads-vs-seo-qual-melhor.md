@@ -1,10 +1,19 @@
 ---
-title: "Google Ads vs. SEO: qual é melhor para pequenos negócios locais?"
+title: "Google Ads ou SEO: qual é melhor para negócio local?"
 description: "São estratégias complementares, não opostas. Mas entender as diferenças ajuda a decidir onde começar."
 date: 2026-06-20
 tags: posts
 permalink: /blog/google-ads-vs-seo-qual-melhor/
 image: /assets/covers/google-ads-vs-seo-qual-melhor.jpg
+faq:
+  - q: "Posso fazer as duas coisas ao mesmo tempo?"
+    a: "Sim — e é o que a maioria dos negócios bem posicionados faz. Mas se o orçamento for limitado, comece pelo SEO e Google Meu Negócio. Quando o básico estiver funcionando, adicione Ads para ampliar."
+  - q: "Quanto tempo leva para o SEO funcionar?"
+    a: "O Google Meu Negócio começa a aparecer no Maps em 1 a 4 semanas após verificação. Os resultados orgânicos (abaixo do mapa) levam 60 a 90 dias para buscas de baixa concorrência, e até 6 meses para buscas mais disputadas."
+  - q: "Qual é o orçamento mínimo para testar Google Ads?"
+    a: "R$400 a R$600 por mês já é suficiente para ter volume de dados e otimizar a campanha. Abaixo disso, os dados são insuficientes para saber o que está funcionando."
+  - q: "Preciso de alguém para gerenciar os Ads?"
+    a: "Uma campanha mal configurada desperdiça orçamento em cliques irrelevantes. Para quem não tem experiência, contratar quem saiba gerenciar ou usar um serviço que inclua gestão de Ads é mais eficiente do que tentar sozinho."
 ---
 
 Quando um pequeno negócio decide investir em aparecer no Google, a primeira dúvida costuma ser esta: pago anúncios agora ou construo o orgânico devagar?

@@ -1,10 +1,17 @@
 ---
-title: "Site no celular: por que 80% dos seus clientes pesquisam pelo smartphone"
+title: "Site no celular: 8 em 10 clientes pesquisam pelo smartphone"
 description: "Se o seu site não funciona bem no celular, você está perdendo a maioria dos clientes antes mesmo de ter a chance de mostrar o que faz."
 date: 2026-06-11
 tags: posts
 permalink: /blog/site-no-celular-por-que-importa/
 image: /assets/covers/site-no-celular-por-que-importa.jpg
+faq:
+  - q: "Como saber se o meu site é realmente mobile-friendly?"
+    a: "Além de testar você mesmo, use a ferramenta gratuita do Google em search.google.com/test/mobile-friendly. Ela analisa o site e indica os problemas específicos com sugestões de correção."
+  - q: "Preciso de um app para o celular?"
+    a: "Para a grande maioria dos pequenos negócios, não. Um site responsivo (que funciona bem no celular) já é suficiente. Apps são mais relevantes para negócios com alto volume de interações recorrentes, como delivery."
+  - q: "Quanto custa fazer um site mobile-friendly?"
+    a: "Qualquer site profissional desenvolvido nos últimos 5 anos já deve ser responsivo. Se o seu site atual não é — geralmente porque foi feito há mais tempo — a opção mais prática costuma ser refazer com tecnologia atual, não tentar adaptar o site antigo."
 ---
 
 Em 2024, o Brasil atingiu mais de 250 milhões de smartphones em uso. O celular é o principal dispositivo de acesso à internet para a maior parte da população — e em muitos casos, o único.

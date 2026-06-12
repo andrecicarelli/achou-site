@@ -5,6 +5,13 @@ date: 2026-06-09
 tags: posts
 permalink: /blog/google-ads-local-vale-a-pena/
 image: /assets/covers/google-ads-local-vale-a-pena.jpg
+faq:
+  - q: "Preciso de alguém para gerenciar os Ads ou posso fazer sozinho?"
+    a: "Para campanhas simples de um único serviço em uma cidade, é possível fazer sozinho com o Google Ads Express. Para campanhas mais complexas, com múltiplos serviços ou cidades, a gestão profissional tende a ter retorno melhor — o custo de uma campanha mal otimizada geralmente supera o custo de gestão."
+  - q: "Os anúncios aparecem no Google Maps também?"
+    a: "Sim. O Google tem anúncios locais específicos que aparecem no Maps — chamados \"Local Services Ads\". São diferentes dos anúncios de busca comuns e têm formato próprio para negócios locais."
+  - q: "Quanto tempo para ver resultado com Google Ads?"
+    a: "Diferente do SEO, o resultado com Ads é imediato — cliques começam a aparecer assim que a campanha é ativada. Mas otimizar a campanha para ter custo por cliente eficiente leva de 2 a 4 semanas de ajustes."
 ---
 
 Google Ads é a plataforma de anúncios do Google. Quando você pesquisa qualquer serviço e os primeiros resultados têm a etiqueta "Patrocinado", são anúncios pagos.

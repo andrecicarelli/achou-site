@@ -5,6 +5,13 @@ date: 2026-06-15
 tags: posts
 permalink: /blog/diferenca-google-maps-google-search/
 image: /assets/covers/diferenca-google-maps-google-search.jpg
+faq:
+  - q: "Posso aparecer no Google Maps sem ter site?"
+    a: "Sim. O Google Meu Negócio funciona independente do site. Ter um site melhora a posição no Maps ao longo do tempo, mas não é obrigatório para aparecer."
+  - q: "Por que meu site aparece nos resultados mas não no Maps?"
+    a: "São canais separados. Um site bem rankeado nos resultados orgânicos não aparece automaticamente no Maps. Para o Maps, você precisa ter o Google Meu Negócio configurado, independente do site."
+  - q: "O que é o \"Local Pack\" e por que meu negócio não está nele?"
+    a: "O Local Pack é o bloco com mapa e três negócios destacados que aparece em buscas locais. Para aparecer lá: tenha Google Meu Negócio verificado e otimizado, colete avaliações, e mantenha o perfil ativo. A posição varia com a concorrência local."
 ---
 
 Quando você pesquisa "fisioterapeuta em Campinas" no Google, dois tipos de resultado aparecem na mesma tela:

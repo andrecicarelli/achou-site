@@ -5,6 +5,13 @@ date: 2026-06-27
 tags: posts
 permalink: /blog/como-transformar-visitantes-em-clientes/
 image: /assets/covers/como-transformar-visitantes-em-clientes.jpg
+faq:
+  - q: "Qual é uma boa taxa de conversão para um site de pequeno negócio local?"
+    a: "Para negócios locais, uma taxa de 2% a 5% de visitantes que entram em contato já é razoável. Abaixo de 1%, existe um problema de conversão a corrigir. Acima de 5%, o site está performando muito bem."
+  - q: "Preciso de landing page separada ou o site já resolve?"
+    a: "Para a maioria dos pequenos negócios locais, uma boa página principal já resolve. Landing pages separadas fazem mais sentido para campanhas de anúncios específicas, onde você quer controlar exatamente o que o visitante vê."
+  - q: "Chat online aumenta a conversão?"
+    a: "Pode aumentar — mas exige que alguém esteja disponível para responder em tempo real. Chat com tempo de resposta de horas é pior do que não ter. WhatsApp com resposta rápida cumpre a mesma função com menos infraestrutura."
 ---
 
 Um site que recebe 400 visitantes por mês e não gera nenhum contato não está funcionando — independente de quão bonito seja.

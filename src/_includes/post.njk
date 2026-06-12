@@ -86,8 +86,9 @@ layout: base.njk
   "headline": "{{ title | escape }}",
   "description": "{{ description | escape }}",
   "datePublished": "{{ date | dateIso }}",
-  "dateModified": "{{ date | dateIso }}",
+  "dateModified": "{{ (updated or date) | dateIso }}",
   "url": "{{ site.url }}{{ page.url }}",
+  "image": "{{ site.url }}{{ image or site.ogImage }}",
   "author": {
     "@type": "Organization",
     "name": "{{ site.name }}"
@@ -103,6 +104,27 @@ layout: base.njk
   }
 }
 </script>
+
+{% if faq %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | dump | safe }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.a | dump | safe }}
+      }
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
 
 <script type="application/ld+json">
 {

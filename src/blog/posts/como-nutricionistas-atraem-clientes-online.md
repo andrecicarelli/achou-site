@@ -5,6 +5,13 @@ date: 2026-06-21
 tags: posts
 permalink: /blog/como-nutricionistas-atraem-clientes-online/
 image: /assets/covers/como-nutricionistas-atraem-clientes-online.jpg
+faq:
+  - q: "Nutricionista autônoma tem presença digital ou precisa de clínica para aparecer no Google?"
+    a: "O Google Meu Negócio pode ser criado por qualquer profissional, independente de ter clínica própria. Profissionais que atendem em consultório compartilhado, em home office, ou online conseguem criar perfil normalmente — configurando como área de atendimento em vez de endereço físico fixo, se necessário."
+  - q: "Preciso de site ou o Google Meu Negócio resolve?"
+    a: "O Google Meu Negócio gera a maior parte dos resultados. O site amplifica — especialmente para buscas de especialidades específicas — e transmite mais credibilidade para pacientes que querem saber mais sobre a abordagem e a formação antes de agendar."
+  - q: "Quanto tempo para começar a receber pacientes pelo Google?"
+    a: "Perfil verificado e otimizado começa a aparecer no Maps em 1 a 4 semanas. Primeiros contatos orgânicos costumam chegar em 30 a 90 dias, dependendo da concorrência na cidade e nas especialidades."
 ---
 
 A nutrição é um dos segmentos de saúde onde a busca online cresceu mais nos últimos anos. Pessoas buscando emagrecimento, reeducação alimentar, nutrição esportiva, suporte para diabetes, doenças autoimunes, gestação — todas pesquisam no Google antes de escolher um profissional.

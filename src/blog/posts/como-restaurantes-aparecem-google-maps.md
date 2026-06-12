@@ -5,6 +5,13 @@ date: 2026-06-23
 tags: posts
 permalink: /blog/como-restaurantes-aparecem-google-maps/
 image: /assets/covers/como-restaurantes-aparecem-google-maps.jpg
+faq:
+  - q: "Vale a pena estar no Google Maps mesmo sendo um restaurante pequeno de bairro?"
+    a: "Especialmente para restaurantes de bairro. Clientes que moram ou trabalham na região pesquisam no Maps para descobrir opções próximas. Um restaurante de bairro bem posicionado no Maps captura clientes locais que estão procurando exatamente o que você oferece."
+  - q: "Como aparecer para turistas e visitantes?"
+    a: "Turistas dependem muito do Google Maps para encontrar restaurantes. Um perfil com boas fotos, avaliações em múltiplos idiomas (se for o caso), e informações completas aparece para quem pesquisa na região mesmo sem conhecer o bairro."
+  - q: "Qual a diferença de aparecer no Maps vs. estar no iFood?"
+    a: "São públicos diferentes. iFood atinge quem quer delivery em casa. Google Maps atinge quem quer sair para comer. Para restaurantes que atendem presencialmente, o Maps é o canal mais relevante. Os dois podem coexistir."
 ---
 
 Delivery apps como iFood e Rappi dominaram o mercado de alimentação para quem quer receber em casa. Mas existe um segmento que eles não cobrem: quem quer sair para comer.

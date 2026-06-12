@@ -1,10 +1,17 @@
 ---
-title: "Por que ter apenas um Instagram não é suficiente para o seu negócio"
+title: "Por que o Instagram sozinho não traz clientes novos"
 description: "Instagram atinge quem já te conhece. Google atinge quem está procurando por você sem te conhecer. São canais com propósitos completamente diferentes."
 date: 2026-06-17
 tags: posts
 permalink: /blog/por-que-instagram-nao-e-suficiente/
 image: /assets/covers/por-que-instagram-nao-e-suficiente.jpg
+faq:
+  - q: "Vale a pena investir em presença no Google se já tenho seguidores no Instagram?"
+    a: "Sim — porque eles são públicos diferentes. Seus seguidores no Instagram já te conhecem. O Google atinge pessoas que nunca ouviram falar de você e estão procurando ativamente pelo seu serviço."
+  - q: "Preciso de site ou o Google Meu Negócio é suficiente?"
+    a: "Para começar, o Google Meu Negócio já faz a maior diferença. O site amplia os resultados — especialmente para buscas de serviços específicos — e transmite mais credibilidade."
+  - q: "Quanto tempo leva para o Google começar a gerar resultado?"
+    a: "O Google Meu Negócio verificado começa a aparecer no Maps em 1 a 4 semanas. Os primeiros contatos orgânicos costumam chegar em 30 a 90 dias com o perfil bem configurado e avaliações crescentes."
 ---
 
 Muitos pequenos negócios hoje têm presença digital apenas no Instagram. Postam com regularidade, têm seguidores, recebem comentários — e acreditam que isso é suficiente.
