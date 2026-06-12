@@ -6,6 +6,11 @@ posthog.init('phc_osQVVbRsX4P2BRKu4UD5ixb7BkNZX3QNphXriR3d8NDT', {
   person_profiles: 'identified_only',
 });
 
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-4J0782XXHN');
+
 const nav = document.getElementById('site-nav');
 window.addEventListener('scroll', () => {
   nav.classList.toggle('nav--scrolled', window.scrollY > 80);
