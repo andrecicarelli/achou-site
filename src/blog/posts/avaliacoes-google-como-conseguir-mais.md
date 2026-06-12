@@ -2,6 +2,7 @@
 title: "Avaliações no Google: como conseguir mais e responder melhor"
 description: "Avaliações são o ativo digital mais valioso de um negócio local. Veja como construir esse patrimônio de forma consistente."
 date: 2026-06-10
+cluster: gmn
 tags: posts
 permalink: /blog/avaliacoes-google-como-conseguir-mais/
 image: /assets/covers/avaliacoes-google-como-conseguir-mais.jpg

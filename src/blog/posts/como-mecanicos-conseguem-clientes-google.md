@@ -2,6 +2,7 @@
 title: "Como mecânicos conseguem clientes pelo Google"
 description: "Oficinas mecânicas com boa presença digital recebem clientes novos sem depender de indicação. Veja o que funciona para esse segmento."
 date: 2026-06-14
+cluster: maps-pratica
 tags: posts
 permalink: /blog/como-mecanicos-conseguem-clientes-google/
 image: /assets/covers/como-mecanicos-conseguem-clientes-google.jpg

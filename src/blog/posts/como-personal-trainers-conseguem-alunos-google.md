@@ -2,6 +2,7 @@
 title: "Como personal trainers conseguem alunos pelo Google"
 description: "Personal trainers que aparecem bem no Google recebem consultas de alunos que nunca os viram treinar. Veja como funciona para esse mercado."
 date: 2026-06-18
+cluster: diagnostico
 tags: posts
 permalink: /blog/como-personal-trainers-conseguem-alunos-google/
 image: /assets/covers/como-personal-trainers-conseguem-alunos-google.jpg

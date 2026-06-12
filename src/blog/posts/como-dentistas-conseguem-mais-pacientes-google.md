@@ -2,6 +2,7 @@
 title: "Como dentistas conseguem mais pacientes pelo Google"
 description: "Dentistas que aparecem bem no Google recebem contatos de pacientes novos todos os dias. Veja o que eles fazem diferente."
 date: 2026-06-05
+cluster: gmn
 tags: posts
 permalink: /blog/como-dentistas-conseguem-mais-pacientes-google/
 image: /assets/covers/como-dentistas-conseguem-mais-pacientes-google.jpg

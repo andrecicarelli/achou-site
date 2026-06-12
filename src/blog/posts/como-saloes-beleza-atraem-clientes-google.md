@@ -2,6 +2,7 @@
 title: "Como salões de beleza atraem novos clientes pelo Google"
 description: "Salões com boa presença digital recebem pedidos de agendamento de clientes que nunca ouviram falar deles antes. Veja como funciona."
 date: 2026-06-12
+cluster: maps-pratica
 tags: posts
 permalink: /blog/como-saloes-beleza-atraem-clientes-google/
 image: /assets/covers/como-saloes-beleza-atraem-clientes-google.jpg

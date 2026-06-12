@@ -2,6 +2,7 @@
 title: "Como nutricionistas atraem clientes online"
 description: "Consultórios de nutrição com presença digital bem estruturada recebem novos pacientes por indicação do Google todos os dias."
 date: 2026-06-21
+cluster: seo-canais
 tags: posts
 permalink: /blog/como-nutricionistas-atraem-clientes-online/
 image: /assets/covers/como-nutricionistas-atraem-clientes-online.jpg

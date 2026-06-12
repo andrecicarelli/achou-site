@@ -3,6 +3,7 @@ title: "SEO local: o que é e por que importa para o seu negócio"
 description: "SEO local é o que faz seu negócio aparecer quando alguém busca seu serviço na cidade. Entenda como funciona e por onde começar."
 date: 2026-06-03
 updated: 2026-06-12
+cluster: seo-canais
 tags: posts
 permalink: /blog/seo-local-o-que-e/
 image: /assets/covers/seo-local-o-que-e.jpg

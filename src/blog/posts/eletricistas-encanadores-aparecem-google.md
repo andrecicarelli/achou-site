@@ -2,6 +2,7 @@
 title: "Como eletricistas e encanadores aparecem no Google"
 description: "Serviços de manutenção residencial têm alta demanda de busca urgente. Quem aparece primeiro no Google leva o serviço."
 date: 2026-06-28
+cluster: diagnostico
 tags: posts
 permalink: /blog/eletricistas-encanadores-aparecem-google/
 image: /assets/covers/eletricistas-encanadores-aparecem-google.jpg

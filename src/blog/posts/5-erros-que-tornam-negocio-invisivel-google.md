@@ -2,6 +2,7 @@
 title: "5 erros que tornam seu negócio invisível no Google"
 description: "A maioria dos pequenos negócios comete pelo menos um desses erros. Veja se você está cometendo algum — e como corrigir."
 date: 2026-06-06
+cluster: diagnostico
 tags: posts
 permalink: /blog/5-erros-que-tornam-negocio-invisivel-google/
 image: /assets/covers/5-erros-que-tornam-negocio-invisivel-google.jpg

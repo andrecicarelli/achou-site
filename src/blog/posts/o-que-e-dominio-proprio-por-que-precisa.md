@@ -2,6 +2,7 @@
 title: "O que é domínio próprio e por que seu negócio precisa"
 description: "Ter um site em 'seusite.wix.com' passa uma mensagem diferente de 'seusite.com.br'. A diferença importa mais do que parece."
 date: 2026-06-24
+cluster: site
 tags: posts
 permalink: /blog/o-que-e-dominio-proprio-por-que-precisa/
 image: /assets/covers/o-que-e-dominio-proprio-por-que-precisa.jpg

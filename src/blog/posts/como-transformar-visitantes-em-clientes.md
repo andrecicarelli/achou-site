@@ -2,6 +2,7 @@
 title: "Como transformar visitantes do site em clientes"
 description: "Atrair visitas para o site é apenas metade do trabalho. A outra metade é converter essas visitas em contatos reais."
 date: 2026-06-27
+cluster: site
 tags: posts
 permalink: /blog/como-transformar-visitantes-em-clientes/
 image: /assets/covers/como-transformar-visitantes-em-clientes.jpg

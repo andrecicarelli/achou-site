@@ -2,6 +2,7 @@
 title: "Métricas que todo pequeno negócio deveria acompanhar no site"
 description: "Você não precisa ser especialista em analytics. Mas existem 4 números que revelam se a sua presença digital está funcionando."
 date: 2026-06-26
+cluster: site
 tags: posts
 permalink: /blog/metricas-pequeno-negocio-acompanhar-site/
 image: /assets/covers/metricas-pequeno-negocio-acompanhar-site.jpg

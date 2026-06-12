@@ -2,6 +2,7 @@
 title: "Site profissional vs. amador: a diferença que o cliente vê"
 description: "Um site ruim pode ser pior do que não ter site nenhum. Entenda o que o cliente vê — e o que você perde quando isso não está certo."
 date: 2026-06-04
+cluster: site
 tags: posts
 permalink: /blog/site-profissional-diferenca/
 image: /assets/covers/site-profissional-diferenca.jpg

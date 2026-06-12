@@ -3,6 +3,7 @@ title: "Por que seu negócio não aparece no Google (e como resolver)"
 description: "Se você busca pelo seu próprio serviço na sua cidade e não se encontra, existe um motivo claro — e uma solução prática."
 date: 2026-06-01
 updated: 2026-06-12
+cluster: diagnostico
 tags: posts
 permalink: /blog/por-que-seu-negocio-nao-aparece-no-google/
 image: /assets/covers/por-que-seu-negocio-nao-aparece-no-google.jpg

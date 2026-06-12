@@ -2,6 +2,7 @@
 title: "Google Ads ou SEO: qual é melhor para negócio local?"
 description: "São estratégias complementares, não opostas. Mas entender as diferenças ajuda a decidir onde começar."
 date: 2026-06-20
+cluster: seo-canais
 tags: posts
 permalink: /blog/google-ads-vs-seo-qual-melhor/
 image: /assets/covers/google-ads-vs-seo-qual-melhor.jpg

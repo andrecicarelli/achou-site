@@ -2,6 +2,7 @@
 title: "Como pet shops e veterinários conseguem clientes pelo Google"
 description: "Donos de pets pesquisam antes de levar o animal. Veja como aparecer para essas buscas e converter novos clientes."
 date: 2026-06-25
+cluster: maps-pratica
 tags: posts
 permalink: /blog/como-pet-shops-conseguem-clientes-google/
 image: /assets/covers/como-pet-shops-conseguem-clientes-google.jpg

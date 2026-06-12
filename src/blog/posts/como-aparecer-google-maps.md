@@ -3,6 +3,7 @@ title: "Como aparecer no Google Maps: passo a passo completo"
 description: "O Google Maps é onde a maioria dos clientes locais encontra serviços. Veja como entrar nessa lista e subir nas posições."
 date: 2026-06-07
 updated: 2026-06-12
+cluster: maps-pratica
 tags: posts
 permalink: /blog/como-aparecer-google-maps/
 image: /assets/covers/como-aparecer-google-maps.jpg

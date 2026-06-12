@@ -2,6 +2,7 @@
 title: "7 perguntas que clientes pesquisam antes de contratar"
 description: "Entender o que seu cliente digita no Google antes de decidir é uma vantagem competitiva. Aqui estão as mais comuns para serviços locais."
 date: 2026-06-22
+cluster: seo-canais
 tags: posts
 permalink: /blog/7-perguntas-que-clientes-pesquisam-antes/
 image: /assets/covers/7-perguntas-que-clientes-pesquisam-antes.jpg

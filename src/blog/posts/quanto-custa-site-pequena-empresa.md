@@ -2,6 +2,7 @@
 title: "Quanto custa um site profissional para pequena empresa"
 description: "Os modelos de contratação de site mudaram bastante. Entenda as opções disponíveis e qual faz mais sentido para o seu caso."
 date: 2026-06-13
+cluster: site
 tags: posts
 permalink: /blog/quanto-custa-site-pequena-empresa/
 image: /assets/covers/quanto-custa-site-pequena-empresa.jpg

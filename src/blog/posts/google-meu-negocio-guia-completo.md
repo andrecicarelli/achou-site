@@ -3,6 +3,7 @@ title: "Google Meu Negócio: o guia completo para pequenos negócios"
 description: "Como criar, verificar e otimizar seu perfil no Google Meu Negócio — o passo mais importante para aparecer nas buscas locais."
 date: 2026-06-02
 updated: 2026-06-12
+cluster: gmn
 tags: posts
 permalink: /blog/google-meu-negocio-guia-completo/
 image: /assets/covers/google-meu-negocio-guia-completo.jpg

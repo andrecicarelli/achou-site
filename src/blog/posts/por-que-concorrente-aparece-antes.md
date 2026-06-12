@@ -2,6 +2,7 @@
 title: "Por que seu concorrente aparece antes de você no Google"
 description: "Não é porque ele é melhor profissional. É porque ele fez algumas coisas que você ainda não fez."
 date: 2026-06-08
+cluster: diagnostico
 tags: posts
 permalink: /blog/por-que-concorrente-aparece-antes/
 image: /assets/covers/por-que-concorrente-aparece-antes.jpg

@@ -2,6 +2,7 @@
 title: "Como restaurantes e lanchonetes aparecem no Google Maps"
 description: "Para negócios de alimentação que não dependem de delivery apps, a presença no Google Maps é o principal canal de descoberta."
 date: 2026-06-23
+cluster: maps-pratica
 tags: posts
 permalink: /blog/como-restaurantes-aparecem-google-maps/
 image: /assets/covers/como-restaurantes-aparecem-google-maps.jpg

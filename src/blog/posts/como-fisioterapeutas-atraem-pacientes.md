@@ -2,6 +2,7 @@
 title: "Como fisioterapeutas atraem pacientes pela internet"
 description: "Clínicas de fisioterapia que aparecem bem no Google recebem pedidos de agendamento todos os dias. O que elas fazem diferente."
 date: 2026-06-16
+cluster: gmn
 tags: posts
 permalink: /blog/como-fisioterapeutas-atraem-pacientes/
 image: /assets/covers/como-fisioterapeutas-atraem-pacientes.jpg

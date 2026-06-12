@@ -2,6 +2,7 @@
 title: "O que clientes pesquisam antes de contratar um serviço"
 description: "Entender o comportamento de busca do seu cliente potencial é o primeiro passo para aparecer no momento certo."
 date: 2026-06-19
+cluster: seo-canais
 tags: posts
 permalink: /blog/o-que-clientes-pesquisam-antes-contratar/
 image: /assets/covers/o-que-clientes-pesquisam-antes-contratar.jpg

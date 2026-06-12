@@ -3,6 +3,7 @@ title: "Presença digital para pequenos negócios: por onde começar"
 description: "Você sabe que precisa estar online, mas não sabe por onde começar. Este guia define a ordem certa para cada passo."
 date: 2026-06-30
 updated: 2026-06-12
+cluster: site
 tags: posts
 permalink: /blog/presenca-digital-pequeno-negocio-por-onde-comecar/
 image: /assets/covers/presenca-digital-pequeno-negocio-por-onde-comecar.jpg

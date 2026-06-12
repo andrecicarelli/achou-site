@@ -26,9 +26,12 @@ module.exports = function (eleventyConfig) {
     return Math.max(1, Math.ceil(words / 200));
   });
 
-  // Filtro: posts relacionados (evita namespace() que não existe em Nunjucks)
-  eleventyConfig.addFilter("relatedPosts", (posts, currentUrl, limit = 3) => {
-    return (posts || []).filter(p => p.url !== currentUrl).slice(0, limit);
+  // Filtro: posts relacionados — mesmo cluster primeiro, depois os mais recentes
+  eleventyConfig.addFilter("relatedPosts", (posts, currentUrl, cluster, limit = 3) => {
+    const others = (posts || []).filter(p => p.url !== currentUrl);
+    const same   = cluster ? others.filter(p => p.data.cluster === cluster) : [];
+    const rest   = others.filter(p => !same.includes(p));
+    return same.concat(rest).slice(0, limit);
   });
 
   // Coleção: posts com data <= hoje (agendamento via build diário)

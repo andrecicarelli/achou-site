@@ -2,6 +2,7 @@
 title: "Google Ads local: vale a pena para pequenos negócios?"
 description: "Google Ads gera resultado imediato. Mas será que faz sentido para o seu tipo de negócio e orçamento? A resposta depende de algumas variáveis."
 date: 2026-06-09
+cluster: seo-canais
 tags: posts
 permalink: /blog/google-ads-local-vale-a-pena/
 image: /assets/covers/google-ads-local-vale-a-pena.jpg

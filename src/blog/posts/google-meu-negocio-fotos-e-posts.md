@@ -2,6 +2,7 @@
 title: "Google Meu Negócio: fotos e posts para aparecer mais"
 description: "Fotos e posts regulares no Google Meu Negócio são um dos fatores de rankeamento mais ignorados — e mais fáceis de executar."
 date: 2026-06-29
+cluster: gmn
 tags: posts
 permalink: /blog/google-meu-negocio-fotos-e-posts/
 image: /assets/covers/google-meu-negocio-fotos-e-posts.jpg

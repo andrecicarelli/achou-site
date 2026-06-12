@@ -1,8 +1,13 @@
 ---
 layout: base.njk
-title: Blog
 description: Artigos práticos sobre presença digital, Google Meu Negócio e SEO local para pequenos negócios no Brasil.
-permalink: /blog/
+pagination:
+  data: collections.publishedPosts
+  size: 12
+  alias: posts
+permalink: "/blog/{% if pagination.pageNumber > 0 %}pagina/{{ pagination.pageNumber + 1 }}/{% endif %}"
+eleventyComputed:
+  title: "{% if pagination.pageNumber > 0 %}Blog — página {{ pagination.pageNumber + 1 }}{% else %}Blog{% endif %}"
 ---
 
 <section class="blog-header">
@@ -15,9 +20,9 @@ permalink: /blog/
 
 <section class="blog-posts">
   <div class="container">
-    {% if collections.publishedPosts and collections.publishedPosts.length %}
+    {% if posts and posts.length %}
     <div class="posts-grid">
-      {% for post in collections.publishedPosts %}
+      {% for post in posts %}
       <a href="{{ post.url }}" class="post-card">
         {% if post.data.image %}
         <div class="post-card-thumb">
@@ -41,6 +46,19 @@ permalink: /blog/
       </a>
       {% endfor %}
     </div>
+
+    {% if pagination.pages.length > 1 %}
+    <nav class="blog-pagination" aria-label="Paginação do blog">
+      {% if pagination.href.previous %}
+      <a href="{{ pagination.href.previous }}" class="pagination-link">← Mais recentes</a>
+      {% endif %}
+      <span class="pagination-info">Página {{ pagination.pageNumber + 1 }} de {{ pagination.pages.length }}</span>
+      {% if pagination.href.next %}
+      <a href="{{ pagination.href.next }}" class="pagination-link">Mais antigos →</a>
+      {% endif %}
+    </nav>
+    {% endif %}
+
     {% else %}
     <p class="blog-empty">Em breve, novos artigos.</p>
     {% endif %}

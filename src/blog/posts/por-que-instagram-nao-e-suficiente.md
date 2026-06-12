@@ -2,6 +2,7 @@
 title: "Por que o Instagram sozinho não traz clientes novos"
 description: "Instagram atinge quem já te conhece. Google atinge quem está procurando por você sem te conhecer. São canais com propósitos completamente diferentes."
 date: 2026-06-17
+cluster: diagnostico
 tags: posts
 permalink: /blog/por-que-instagram-nao-e-suficiente/
 image: /assets/covers/por-que-instagram-nao-e-suficiente.jpg

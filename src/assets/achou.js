@@ -63,6 +63,23 @@ document.querySelectorAll('.faq-question').forEach(btn => {
   });
 });
 
+const progressFill = document.getElementById('read-progress-fill');
+const postBody     = document.querySelector('.post-body');
+if (progressFill && postBody) {
+  let ticking = false;
+  const updateProgress = () => {
+    const top    = postBody.getBoundingClientRect().top + window.scrollY;
+    const end    = top + postBody.offsetHeight - window.innerHeight;
+    const p      = end <= top ? 1 : Math.min(1, Math.max(0, (window.scrollY - top) / (end - top)));
+    progressFill.style.transform = 'scaleX(' + p + ')';
+    ticking = false;
+  };
+  window.addEventListener('scroll', () => {
+    if (!ticking) { ticking = true; requestAnimationFrame(updateProgress); }
+  }, { passive: true });
+  updateProgress();
+}
+
 document.querySelectorAll('a[href^="#"]').forEach(a => {
   a.addEventListener('click', e => {
     const target = document.querySelector(a.getAttribute('href'));

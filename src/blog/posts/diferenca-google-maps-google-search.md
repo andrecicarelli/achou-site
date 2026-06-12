@@ -2,6 +2,7 @@
 title: "A diferença entre aparecer no Google Maps e no Google Search"
 description: "São dois resultados diferentes na mesma busca. Entender a diferença ajuda a priorizar onde investir esforço primeiro."
 date: 2026-06-15
+cluster: gmn
 tags: posts
 permalink: /blog/diferenca-google-maps-google-search/
 image: /assets/covers/diferenca-google-maps-google-search.jpg
