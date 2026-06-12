@@ -1,6 +1,8 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
+  // Assets de demos de prospecção (/demo/<slug>/assets/)
+  eleventyConfig.addPassthroughCopy("src/demo/**/assets/**");
 
   eleventyConfig.addGlobalData("build", () => ({
     ts: Date.now(),

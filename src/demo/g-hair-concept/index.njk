@@ -1,0 +1,254 @@
+---
+permalink: /demo/g-hair-concept/
+eleventyExcludeFromCollections: true
+reels: ["DNElOk7MJlC", "DJz39gmPnXV", "DMAzDABsFbC"]
+---
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>G Hair Concept — Loiros, mechas e coloração em Jundiaí</title>
+  <meta name="description" content="Salão especializado em loiros, mechas e transformação de cor em Jundiaí. Atendimento com hora marcada. Agende sua avaliação pelo WhatsApp." />
+  <link rel="icon" href="/demo/g-hair-concept/assets/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/demo/g-hair-concept/assets/style.css" />
+</head>
+<body>
+
+  <nav class="nav" id="nav">
+    <div class="nav-inner">
+      <a href="#inicio" class="nav-logo">G <span>Hair Concept</span></a>
+      <a href="https://wa.me/5511943215660?text=Ol%C3%A1!%20Vi%20o%20site%20do%20G%20Hair%20Concept%20e%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer" class="btn btn-nav">Agendar</a>
+    </div>
+  </nav>
+
+  <section class="hero" id="inicio">
+    <div class="hero-visual">
+      <img src="/demo/g-hair-concept/assets/1.webp" alt="Interior do G Hair Concept" class="hero-img" />
+      <div class="hero-overlay"></div>
+    </div>
+    <div class="hero-texto">
+      <span class="hero-label">Jundiaí · Atendimento com hora marcada</span>
+      <h1>Seu cabelo.<br>Sua melhor versão.</h1>
+      <p class="hero-sub">Gabriel · Especialista em loiros, mechas e transformação de cor</p>
+      <a href="https://wa.me/5511943215660?text=Ol%C3%A1!%20Vi%20o%20site%20do%20G%20Hair%20Concept%20e%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer" class="btn btn-primary">Agendar minha avaliação</a>
+    </div>
+  </section>
+
+  {% if reels.length > 0 %}
+  <section class="section resultados" id="resultados">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Resultados</span>
+        <h2>O trabalho fala por si</h2>
+        <p>Transformações reais, direto do nosso Instagram.</p>
+      </div>
+      <div class="reels-grid">
+        {% for reel in reels %}
+        <div class="reel-item reveal">
+          <iframe src="https://www.instagram.com/p/{{ reel }}/embed/" title="Resultado G Hair Concept" loading="lazy" allowfullscreen></iframe>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="resultados-footer">
+        <a href="https://www.instagram.com/g.hairconcept/" target="_blank" rel="noopener noreferrer" class="link-instagram">Ver mais no Instagram →</a>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="section section--alt sobre" id="sobre">
+    <div class="container">
+      <div class="sobre-inner">
+        <div class="sobre-texto reveal">
+          <span class="section-label">Sobre</span>
+          <h2>Um conceito, não uma linha de produção</h2>
+          <p>No G Hair Concept, cada cabelo é um projeto. Antes de qualquer química, fazemos uma avaliação completa: histórico do seu fio, o resultado que você quer e o caminho mais seguro para chegar lá — sem comprometer a saúde do cabelo.</p>
+          <p>Especializado em loiros, mechas e correção de cor, o Gabriel acompanha pessoalmente cada transformação, do diagnóstico à finalização. Aqui você não é encaixada entre um horário e outro: o atendimento é com hora marcada, no seu tempo.</p>
+          <div class="sobre-tags">
+            <span class="tag">Loiros &amp; mechas</span>
+            <span class="tag">Correção de cor</span>
+            <span class="tag">Hora marcada</span>
+          </div>
+        </div>
+        <div class="sobre-foto reveal">
+          <img src="/demo/g-hair-concept/assets/2.webp" alt="Espaço do G Hair Concept" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section servicos" id="servicos">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Serviços</span>
+        <h2>O que fazemos</h2>
+        <p>Cada serviço começa com uma avaliação — porque cada cabelo pede um caminho diferente.</p>
+      </div>
+      <div class="servicos-grid">
+        <div class="servico-card reveal">
+          <h3>Loiros &amp; mechas</h3>
+          <p>Balayage, morena iluminada e loiros sob medida — construídos com técnica para iluminar sem destruir o fio.</p>
+        </div>
+        <div class="servico-card reveal">
+          <h3>Coloração</h3>
+          <p>Da cobertura perfeita à mudança completa de cor, com produtos profissionais e resultado uniforme.</p>
+        </div>
+        <div class="servico-card reveal">
+          <h3>Correção de cor</h3>
+          <p>Aquela química que deu errado em outro lugar tem conserto. Avaliamos e traçamos o plano de resgate.</p>
+        </div>
+        <div class="servico-card reveal">
+          <h3>Corte feminino</h3>
+          <p>Corte pensado para o seu rosto, seu fio e a sua rotina — não o corte da moda em qualquer cabeça.</p>
+        </div>
+        <div class="servico-card reveal">
+          <h3>Tratamentos</h3>
+          <p>Hidratação, nutrição e reconstrução para manter (ou recuperar) a saúde do cabelo entre as químicas.</p>
+        </div>
+        <div class="servico-card reveal">
+          <h3>Escova &amp; finalização</h3>
+          <p>Para o dia a dia ou para aquela ocasião que pede cabelo impecável.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt depoimentos" id="depoimentos">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Clientes</span>
+        <h2>Quem vive a experiência</h2>
+      </div>
+      <div class="depoimentos-grid">
+        <!-- exemplo — substituir por avaliações reais do Google do Gabriel -->
+        <div class="depoimento-card reveal">
+          <div class="depoimento-estrelas">★★★★★</div>
+          <p class="depoimento-texto">"Saí do salão me sentindo outra pessoa. O Gabriel entendeu exatamente o loiro que eu queria — e meu cabelo continua saudável."</p>
+          <div class="depoimento-autor">
+            <span class="autor-nome">Mariana C.</span>
+            <span class="autor-detalhe">Jundiaí</span>
+          </div>
+        </div>
+        <!-- exemplo -->
+        <div class="depoimento-card reveal">
+          <div class="depoimento-estrelas">★★★★★</div>
+          <p class="depoimento-texto">"Depois de uma química mal feita em outro lugar, achei que não tinha mais jeito. Ele recuperou minha cor e minha confiança."</p>
+          <div class="depoimento-autor">
+            <span class="autor-nome">Patrícia R.</span>
+            <span class="autor-detalhe">Jundiaí</span>
+          </div>
+        </div>
+        <!-- exemplo -->
+        <div class="depoimento-card reveal">
+          <div class="depoimento-estrelas">★★★★★</div>
+          <p class="depoimento-texto">"Atendimento com hora marcada faz toda a diferença. É só você, sem pressa, com atenção de verdade no resultado."</p>
+          <div class="depoimento-autor">
+            <span class="autor-nome">Fernanda L.</span>
+            <span class="autor-detalhe">Jundiaí</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-agenda">
+    <div class="container">
+      <span class="agenda-badge">Agenda de junho aberta</span>
+      <h2>Pronta para o cabelo que você sempre quis?</h2>
+      <p>Os horários são limitados — o atendimento é individual, com hora marcada.</p>
+      <a href="https://wa.me/5511943215660?text=Ol%C3%A1!%20Vi%20o%20site%20do%20G%20Hair%20Concept%20e%20quero%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer" class="btn btn-light">Agendar pelo WhatsApp</a>
+    </div>
+  </section>
+
+  <section class="section faq" id="faq">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">Dúvidas</span>
+        <h2>Perguntas frequentes</h2>
+      </div>
+      <div class="faq-list">
+        <div class="faq-item">
+          <button class="faq-question" aria-expanded="false">
+            Preciso ir com o cabelo lavado?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer" hidden>
+            <p>Não precisa. Para serviços de cor, o ideal é vir com o cabelo natural, do jeito que está no dia a dia — assim avaliamos o fio real antes de qualquer procedimento.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question" aria-expanded="false">
+            Quanto tempo dura uma transformação de cor?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer" hidden>
+            <p>Depende do ponto de partida e de onde você quer chegar. Mechas e loiros costumam levar de 3 a 6 horas. Na avaliação, você sai sabendo o tempo e o plano exato para o seu cabelo.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question" aria-expanded="false">
+            Posso levar foto de referência?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer" hidden>
+            <p>Pode e deve! A referência ajuda a alinhar expectativas. Na avaliação, conversamos sobre o que é possível para o seu fio e montamos o caminho até lá.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question" aria-expanded="false">
+            Meu cabelo passou por química em outro salão. Vocês atendem?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer" hidden>
+            <p>Sim — correção de cor é uma das nossas especialidades. O primeiro passo é a avaliação, para entender o histórico do fio e definir o procedimento mais seguro.</p>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question" aria-expanded="false">
+            Como funciona o agendamento?
+            <span class="faq-icon" aria-hidden="true">+</span>
+          </button>
+          <div class="faq-answer" hidden>
+            <p>Tudo pelo WhatsApp. Você conta o que procura, enviamos as opções de horário e confirmamos. Atendimento individual, com hora marcada.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="contato" id="contato">
+    <div class="container">
+      <div class="contato-inner">
+        <div class="contato-marca">
+          <img src="/demo/g-hair-concept/assets/logo-ghairconcept.webp" alt="G Hair Concept" class="contato-logo" />
+        </div>
+        <div class="contato-info">
+          <h3>Onde estamos</h3>
+          <p>R. Ovídio Zambon, 40 — Cidade Luíza<br>Jundiaí — SP · 13214-174</p>
+          <a href="https://maps.app.goo.gl/qr2EzWpyeWx7xLL87" target="_blank" rel="noopener noreferrer">Ver no Google Maps →</a>
+        </div>
+        <div class="contato-info">
+          <h3>Horários</h3>
+          <p>Terça a sexta · 10h às 20h<br>Sábado · 8h às 18h<br>Domingo e segunda · fechado</p>
+        </div>
+        <div class="contato-info">
+          <h3>Agende</h3>
+          <p><a href="https://wa.me/5511943215660" target="_blank" rel="noopener noreferrer">(11) 94321-5660</a></p>
+          <a href="https://www.instagram.com/g.hairconcept/" target="_blank" rel="noopener noreferrer">@g.hairconcept</a>
+        </div>
+      </div>
+      <div class="contato-rodape">
+        <p>G Hair Concept · Jundiaí — SP</p>
+        <p class="rodape-achou">Demonstração criada pela <a href="https://achouagencia.com.br" target="_blank" rel="noopener noreferrer">Agência Achou</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/demo/g-hair-concept/assets/main.js" defer></script>
+</body>
+</html>
