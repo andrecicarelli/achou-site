@@ -231,21 +231,58 @@ a { color: var(--primary); text-decoration: none; }
 .servico-card h3 { font-family: var(--font-title); font-size: 1.45rem; margin-bottom: 8px; }
 .servico-card p { color: var(--text-muted); font-size: 0.95rem; }
 
-/* Depoimentos */
-.depoimentos-grid {
-  display: grid;
-  grid-template-columns: 1fr;
+/* Depoimentos — marquee infinito */
+.depoimentos { overflow: visible; }
+.depoimentos .section-header { margin-bottom: 40px; }
+
+.marquee-wrapper {
+  overflow: hidden;
+  width: 100%;
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
+  padding: 12px 0 48px;
+  background: var(--surface);
+}
+
+.marquee-track {
+  display: flex;
   gap: 20px;
+  width: max-content;
+  animation: marquee-scroll 30s linear infinite;
 }
+.marquee-track:hover { animation-play-state: paused; }
+
+@keyframes marquee-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
 .depoimento-card {
+  flex-shrink: 0;
+  width: 340px;
   background: var(--bg);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 28px;
-  border-left: 3px solid var(--primary);
+  padding: 28px 28px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  transition: border-color 0.25s, box-shadow 0.25s;
 }
-.depoimento-estrelas { color: var(--primary); font-size: 0.9rem; letter-spacing: 3px; margin-bottom: 14px; }
-.depoimento-texto { font-style: italic; margin-bottom: 16px; line-height: 1.7; }
-.depoimento-autor { display: flex; flex-direction: column; gap: 2px; }
+.depoimento-card:hover {
+  border-color: var(--primary);
+  box-shadow: 0 4px 24px rgba(176, 123, 58, 0.12);
+}
+
+.depoimento-estrelas { color: var(--primary); font-size: 0.9rem; letter-spacing: 3px; }
+.depoimento-texto { font-style: italic; line-height: 1.75; font-size: 0.925rem; flex: 1; }
+.depoimento-autor {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
 .autor-nome { font-weight: 600; font-size: 0.9rem; }
 .autor-detalhe { font-size: 0.8rem; color: var(--text-muted); }
 
@@ -348,6 +385,5 @@ a { color: var(--primary); text-decoration: none; }
   .sobre-inner { grid-template-columns: 3fr 2fr; gap: 64px; }
   .sobre-foto img { aspect-ratio: 4 / 5; }
   .servicos-grid { grid-template-columns: repeat(3, 1fr); }
-  .depoimentos-grid { grid-template-columns: repeat(3, 1fr); }
   .contato-inner { grid-template-columns: repeat(4, 1fr); align-items: start; }
 }
