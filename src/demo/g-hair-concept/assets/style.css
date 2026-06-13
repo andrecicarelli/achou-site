@@ -250,14 +250,21 @@ a { color: var(--primary); text-decoration: none; }
   width: max-content;
   animation: marquee-scroll 30s linear infinite;
 }
-.marquee-track--reverse {
-  animation-direction: reverse;
-}
 .marquee-track:hover { animation-play-state: paused; }
 
 @keyframes marquee-scroll {
   from { transform: translateX(0); }
   to   { transform: translateX(-50%); }
+}
+
+@keyframes marquee-scroll-reverse {
+  from { transform: translateX(-50%); }
+  to   { transform: translateX(0%); }
+}
+
+.marquee-track--reverse {
+  animation-name: marquee-scroll-reverse;
+  animation-direction: normal;
 }
 
 .depoimento-card {
