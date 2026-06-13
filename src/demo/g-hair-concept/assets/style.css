@@ -232,7 +232,7 @@ a { color: var(--primary); text-decoration: none; }
 .servico-card p { color: var(--text-muted); font-size: 0.95rem; }
 
 /* Depoimentos — marquee infinito */
-.depoimentos { overflow: visible; padding-bottom: 0; }
+.depoimentos { overflow: hidden; padding-bottom: 48px; }
 .depoimentos .section-header { margin-bottom: 32px; }
 
 .marquee-wrapper {
@@ -240,8 +240,7 @@ a { color: var(--primary); text-decoration: none; }
   width: 100%;
   -webkit-mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
   mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
-  padding: 12px 0 48px;
-  background: var(--surface);
+  padding: 12px 0 0;
 }
 
 .marquee-track {
