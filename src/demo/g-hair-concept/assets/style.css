@@ -232,8 +232,8 @@ a { color: var(--primary); text-decoration: none; }
 .servico-card p { color: var(--text-muted); font-size: 0.95rem; }
 
 /* Depoimentos — marquee infinito */
-.depoimentos { overflow: visible; }
-.depoimentos .section-header { margin-bottom: 40px; }
+.depoimentos { overflow: visible; padding-bottom: 0; }
+.depoimentos .section-header { margin-bottom: 32px; }
 
 .marquee-wrapper {
   overflow: hidden;
