@@ -242,9 +242,7 @@ a { color: var(--primary); text-decoration: none; }
   mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
   padding: 12px 0 0;
 }
-.marquee-wrapper + .marquee-wrapper {
-  padding-top: 16px;
-}
+.marquee-wrapper + .marquee-wrapper { margin-top: 16px; }
 
 .marquee-track {
   display: flex;
